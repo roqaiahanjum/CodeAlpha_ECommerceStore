@@ -37,13 +37,13 @@ const products = [
     "price": 99.99,
     "originalPrice": 149.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Wireless%20Bluetooth%20Headphones",
-    "thumbnail": "https://placehold.co/200x200?text=Wireless%20Bluetooth%20Headphones",
+    "image": "https://via.placeholder.com/400x300?text=Wireless%20Bluetooth%20Headphones",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Wireless%20Bluetooth%20Headphones",
     "images": [
-      "https://placehold.co/400x300?text=Wireless%20Bluetooth%20Headphones",
-      "https://placehold.co/400x300?text=Wireless%20Bluetooth%20Headphones",
-      "https://placehold.co/400x300?text=Wireless%20Bluetooth%20Headphones",
-      "https://placehold.co/400x300?text=Wireless%20Bluetooth%20Headphones"
+      "https://via.placeholder.com/400x300?text=Wireless%20Bluetooth%20Headphones",
+      "https://via.placeholder.com/400x300?text=Wireless%20Bluetooth%20Headphones",
+      "https://via.placeholder.com/400x300?text=Wireless%20Bluetooth%20Headphones",
+      "https://via.placeholder.com/400x300?text=Wireless%20Bluetooth%20Headphones"
     ],
     "category": "Electronics",
     "brand": "SoundPro",
@@ -76,13 +76,13 @@ const products = [
     "price": 199.99,
     "originalPrice": 299.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Smart%20Watch%20Pro",
-    "thumbnail": "https://placehold.co/200x200?text=Smart%20Watch%20Pro",
+    "image": "https://via.placeholder.com/400x300?text=Smart%20Watch%20Pro",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Smart%20Watch%20Pro",
     "images": [
-      "https://placehold.co/400x300?text=Smart%20Watch%20Pro",
-      "https://placehold.co/400x300?text=Smart%20Watch%20Pro",
-      "https://placehold.co/400x300?text=Smart%20Watch%20Pro",
-      "https://placehold.co/400x300?text=Smart%20Watch%20Pro"
+      "https://via.placeholder.com/400x300?text=Smart%20Watch%20Pro",
+      "https://via.placeholder.com/400x300?text=Smart%20Watch%20Pro",
+      "https://via.placeholder.com/400x300?text=Smart%20Watch%20Pro",
+      "https://via.placeholder.com/400x300?text=Smart%20Watch%20Pro"
     ],
     "category": "Electronics",
     "brand": "TechGear",
@@ -115,13 +115,13 @@ const products = [
     "price": 49.99,
     "originalPrice": 79.99,
     "discountPercentage": 37,
-    "image": "https://placehold.co/400x300?text=Wireless%20Earbuds",
-    "thumbnail": "https://placehold.co/200x200?text=Wireless%20Earbuds",
+    "image": "https://via.placeholder.com/400x300?text=Wireless%20Earbuds",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Wireless%20Earbuds",
     "images": [
-      "https://placehold.co/400x300?text=Wireless%20Earbuds",
-      "https://placehold.co/400x300?text=Wireless%20Earbuds",
-      "https://placehold.co/400x300?text=Wireless%20Earbuds",
-      "https://placehold.co/400x300?text=Wireless%20Earbuds"
+      "https://via.placeholder.com/400x300?text=Wireless%20Earbuds",
+      "https://via.placeholder.com/400x300?text=Wireless%20Earbuds",
+      "https://via.placeholder.com/400x300?text=Wireless%20Earbuds",
+      "https://via.placeholder.com/400x300?text=Wireless%20Earbuds"
     ],
     "category": "Electronics",
     "brand": "SoundPro",
@@ -152,13 +152,13 @@ const products = [
     "price": 129.99,
     "originalPrice": 179.99,
     "discountPercentage": 28,
-    "image": "https://placehold.co/400x300?text=Gaming%20Keyboard",
-    "thumbnail": "https://placehold.co/200x200?text=Gaming%20Keyboard",
+    "image": "https://via.placeholder.com/400x300?text=Gaming%20Keyboard",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Gaming%20Keyboard",
     "images": [
-      "https://placehold.co/400x300?text=Gaming%20Keyboard",
-      "https://placehold.co/400x300?text=Gaming%20Keyboard",
-      "https://placehold.co/400x300?text=Gaming%20Keyboard",
-      "https://placehold.co/400x300?text=Gaming%20Keyboard"
+      "https://via.placeholder.com/400x300?text=Gaming%20Keyboard",
+      "https://via.placeholder.com/400x300?text=Gaming%20Keyboard",
+      "https://via.placeholder.com/400x300?text=Gaming%20Keyboard",
+      "https://via.placeholder.com/400x300?text=Gaming%20Keyboard"
     ],
     "category": "Electronics",
     "brand": "GameX",
@@ -189,13 +189,13 @@ const products = [
     "price": 59.99,
     "originalPrice": 89.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Gaming%20Mouse",
-    "thumbnail": "https://placehold.co/200x200?text=Gaming%20Mouse",
+    "image": "https://via.placeholder.com/400x300?text=Gaming%20Mouse",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Gaming%20Mouse",
     "images": [
-      "https://placehold.co/400x300?text=Gaming%20Mouse",
-      "https://placehold.co/400x300?text=Gaming%20Mouse",
-      "https://placehold.co/400x300?text=Gaming%20Mouse",
-      "https://placehold.co/400x300?text=Gaming%20Mouse"
+      "https://via.placeholder.com/400x300?text=Gaming%20Mouse",
+      "https://via.placeholder.com/400x300?text=Gaming%20Mouse",
+      "https://via.placeholder.com/400x300?text=Gaming%20Mouse",
+      "https://via.placeholder.com/400x300?text=Gaming%20Mouse"
     ],
     "category": "Electronics",
     "brand": "GameX",
@@ -226,13 +226,13 @@ const products = [
     "price": 79.99,
     "originalPrice": 119.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Bluetooth%20Speaker",
-    "thumbnail": "https://placehold.co/200x200?text=Bluetooth%20Speaker",
+    "image": "https://via.placeholder.com/400x300?text=Bluetooth%20Speaker",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Bluetooth%20Speaker",
     "images": [
-      "https://placehold.co/400x300?text=Bluetooth%20Speaker",
-      "https://placehold.co/400x300?text=Bluetooth%20Speaker",
-      "https://placehold.co/400x300?text=Bluetooth%20Speaker",
-      "https://placehold.co/400x300?text=Bluetooth%20Speaker"
+      "https://via.placeholder.com/400x300?text=Bluetooth%20Speaker",
+      "https://via.placeholder.com/400x300?text=Bluetooth%20Speaker",
+      "https://via.placeholder.com/400x300?text=Bluetooth%20Speaker",
+      "https://via.placeholder.com/400x300?text=Bluetooth%20Speaker"
     ],
     "category": "Electronics",
     "brand": "SoundPro",
@@ -263,13 +263,13 @@ const products = [
     "price": 39.99,
     "originalPrice": 59.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Laptop%20Backpack",
-    "thumbnail": "https://placehold.co/200x200?text=Laptop%20Backpack",
+    "image": "https://via.placeholder.com/400x300?text=Laptop%20Backpack",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Laptop%20Backpack",
     "images": [
-      "https://placehold.co/400x300?text=Laptop%20Backpack",
-      "https://placehold.co/400x300?text=Laptop%20Backpack",
-      "https://placehold.co/400x300?text=Laptop%20Backpack",
-      "https://placehold.co/400x300?text=Laptop%20Backpack"
+      "https://via.placeholder.com/400x300?text=Laptop%20Backpack",
+      "https://via.placeholder.com/400x300?text=Laptop%20Backpack",
+      "https://via.placeholder.com/400x300?text=Laptop%20Backpack",
+      "https://via.placeholder.com/400x300?text=Laptop%20Backpack"
     ],
     "category": "Electronics",
     "brand": "TravelMax",
@@ -300,13 +300,13 @@ const products = [
     "price": 34.99,
     "originalPrice": 54.99,
     "discountPercentage": 36,
-    "image": "https://placehold.co/400x300?text=Power%20Bank",
-    "thumbnail": "https://placehold.co/200x200?text=Power%20Bank",
+    "image": "https://via.placeholder.com/400x300?text=Power%20Bank",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Power%20Bank",
     "images": [
-      "https://placehold.co/400x300?text=Power%20Bank",
-      "https://placehold.co/400x300?text=Power%20Bank",
-      "https://placehold.co/400x300?text=Power%20Bank",
-      "https://placehold.co/400x300?text=Power%20Bank"
+      "https://via.placeholder.com/400x300?text=Power%20Bank",
+      "https://via.placeholder.com/400x300?text=Power%20Bank",
+      "https://via.placeholder.com/400x300?text=Power%20Bank",
+      "https://via.placeholder.com/400x300?text=Power%20Bank"
     ],
     "category": "Electronics",
     "brand": "ChargeTech",
@@ -337,13 +337,13 @@ const products = [
     "price": 129.99,
     "originalPrice": 179.99,
     "discountPercentage": 28,
-    "image": "https://placehold.co/400x300?text=AeroSound%20Pro%20Wireless%20Earbuds",
-    "thumbnail": "https://placehold.co/200x200?text=AeroSound%20Pro%20Wireless%20Earbuds",
+    "image": "https://via.placeholder.com/400x300?text=AeroSound%20Pro%20Wireless%20Earbuds",
+    "thumbnail": "https://via.placeholder.com/200x200?text=AeroSound%20Pro%20Wireless%20Earbuds",
     "images": [
-      "https://placehold.co/400x300?text=AeroSound%20Pro%20Wireless%20Earbuds",
-      "https://placehold.co/400x300?text=AeroSound%20Pro%20Wireless%20Earbuds",
-      "https://placehold.co/400x300?text=AeroSound%20Pro%20Wireless%20Earbuds",
-      "https://placehold.co/400x300?text=AeroSound%20Pro%20Wireless%20Earbuds"
+      "https://via.placeholder.com/400x300?text=AeroSound%20Pro%20Wireless%20Earbuds",
+      "https://via.placeholder.com/400x300?text=AeroSound%20Pro%20Wireless%20Earbuds",
+      "https://via.placeholder.com/400x300?text=AeroSound%20Pro%20Wireless%20Earbuds",
+      "https://via.placeholder.com/400x300?text=AeroSound%20Pro%20Wireless%20Earbuds"
     ],
     "category": "Electronics",
     "brand": "AeroSound",
@@ -377,13 +377,13 @@ const products = [
     "price": 299.99,
     "originalPrice": 399.99,
     "discountPercentage": 25,
-    "image": "https://placehold.co/400x300?text=ChronoFit%20Smart%20Watch%20Platinum",
-    "thumbnail": "https://placehold.co/200x200?text=ChronoFit%20Smart%20Watch%20Platinum",
+    "image": "https://via.placeholder.com/400x300?text=ChronoFit%20Smart%20Watch%20Platinum",
+    "thumbnail": "https://via.placeholder.com/200x200?text=ChronoFit%20Smart%20Watch%20Platinum",
     "images": [
-      "https://placehold.co/400x300?text=ChronoFit%20Smart%20Watch%20Platinum",
-      "https://placehold.co/400x300?text=ChronoFit%20Smart%20Watch%20Platinum",
-      "https://placehold.co/400x300?text=ChronoFit%20Smart%20Watch%20Platinum",
-      "https://placehold.co/400x300?text=ChronoFit%20Smart%20Watch%20Platinum"
+      "https://via.placeholder.com/400x300?text=ChronoFit%20Smart%20Watch%20Platinum",
+      "https://via.placeholder.com/400x300?text=ChronoFit%20Smart%20Watch%20Platinum",
+      "https://via.placeholder.com/400x300?text=ChronoFit%20Smart%20Watch%20Platinum",
+      "https://via.placeholder.com/400x300?text=ChronoFit%20Smart%20Watch%20Platinum"
     ],
     "category": "Electronics",
     "brand": "ChronoFit",
@@ -418,13 +418,13 @@ const products = [
     "price": 24.99,
     "originalPrice": 34.99,
     "discountPercentage": 29,
-    "image": "https://placehold.co/400x300?text=Cotton%20T-Shirt",
-    "thumbnail": "https://placehold.co/200x200?text=Cotton%20T-Shirt",
+    "image": "https://via.placeholder.com/400x300?text=Cotton%20T-Shirt",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Cotton%20T-Shirt",
     "images": [
-      "https://placehold.co/400x300?text=Cotton%20T-Shirt",
-      "https://placehold.co/400x300?text=Cotton%20T-Shirt",
-      "https://placehold.co/400x300?text=Cotton%20T-Shirt",
-      "https://placehold.co/400x300?text=Cotton%20T-Shirt"
+      "https://via.placeholder.com/400x300?text=Cotton%20T-Shirt",
+      "https://via.placeholder.com/400x300?text=Cotton%20T-Shirt",
+      "https://via.placeholder.com/400x300?text=Cotton%20T-Shirt",
+      "https://via.placeholder.com/400x300?text=Cotton%20T-Shirt"
     ],
     "category": "Fashion",
     "brand": "UrbanWear",
@@ -455,13 +455,13 @@ const products = [
     "price": 39.99,
     "originalPrice": 54.99,
     "discountPercentage": 27,
-    "image": "https://placehold.co/400x300?text=Polo%20Shirt",
-    "thumbnail": "https://placehold.co/200x200?text=Polo%20Shirt",
+    "image": "https://via.placeholder.com/400x300?text=Polo%20Shirt",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Polo%20Shirt",
     "images": [
-      "https://placehold.co/400x300?text=Polo%20Shirt",
-      "https://placehold.co/400x300?text=Polo%20Shirt",
-      "https://placehold.co/400x300?text=Polo%20Shirt",
-      "https://placehold.co/400x300?text=Polo%20Shirt"
+      "https://via.placeholder.com/400x300?text=Polo%20Shirt",
+      "https://via.placeholder.com/400x300?text=Polo%20Shirt",
+      "https://via.placeholder.com/400x300?text=Polo%20Shirt",
+      "https://via.placeholder.com/400x300?text=Polo%20Shirt"
     ],
     "category": "Fashion",
     "brand": "UrbanWear",
@@ -492,13 +492,13 @@ const products = [
     "price": 89.99,
     "originalPrice": 129.99,
     "discountPercentage": 31,
-    "image": "https://placehold.co/400x300?text=Denim%20Jacket",
-    "thumbnail": "https://placehold.co/200x200?text=Denim%20Jacket",
+    "image": "https://via.placeholder.com/400x300?text=Denim%20Jacket",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Denim%20Jacket",
     "images": [
-      "https://placehold.co/400x300?text=Denim%20Jacket",
-      "https://placehold.co/400x300?text=Denim%20Jacket",
-      "https://placehold.co/400x300?text=Denim%20Jacket",
-      "https://placehold.co/400x300?text=Denim%20Jacket"
+      "https://via.placeholder.com/400x300?text=Denim%20Jacket",
+      "https://via.placeholder.com/400x300?text=Denim%20Jacket",
+      "https://via.placeholder.com/400x300?text=Denim%20Jacket",
+      "https://via.placeholder.com/400x300?text=Denim%20Jacket"
     ],
     "category": "Fashion",
     "brand": "DenimCo",
@@ -529,13 +529,13 @@ const products = [
     "price": 54.99,
     "originalPrice": 79.99,
     "discountPercentage": 31,
-    "image": "https://placehold.co/400x300?text=Hoodie",
-    "thumbnail": "https://placehold.co/200x200?text=Hoodie",
+    "image": "https://via.placeholder.com/400x300?text=Hoodie",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Hoodie",
     "images": [
-      "https://placehold.co/400x300?text=Hoodie",
-      "https://placehold.co/400x300?text=Hoodie",
-      "https://placehold.co/400x300?text=Hoodie",
-      "https://placehold.co/400x300?text=Hoodie"
+      "https://via.placeholder.com/400x300?text=Hoodie",
+      "https://via.placeholder.com/400x300?text=Hoodie",
+      "https://via.placeholder.com/400x300?text=Hoodie",
+      "https://via.placeholder.com/400x300?text=Hoodie"
     ],
     "category": "Fashion",
     "brand": "ComfortWear",
@@ -566,13 +566,13 @@ const products = [
     "price": 69.99,
     "originalPrice": 99.99,
     "discountPercentage": 30,
-    "image": "https://placehold.co/400x300?text=Jeans",
-    "thumbnail": "https://placehold.co/200x200?text=Jeans",
+    "image": "https://via.placeholder.com/400x300?text=Jeans",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Jeans",
     "images": [
-      "https://placehold.co/400x300?text=Jeans",
-      "https://placehold.co/400x300?text=Jeans",
-      "https://placehold.co/400x300?text=Jeans",
-      "https://placehold.co/400x300?text=Jeans"
+      "https://via.placeholder.com/400x300?text=Jeans",
+      "https://via.placeholder.com/400x300?text=Jeans",
+      "https://via.placeholder.com/400x300?text=Jeans",
+      "https://via.placeholder.com/400x300?text=Jeans"
     ],
     "category": "Fashion",
     "brand": "DenimCo",
@@ -603,13 +603,13 @@ const products = [
     "price": 59.99,
     "originalPrice": 84.99,
     "discountPercentage": 29,
-    "image": "https://placehold.co/400x300?text=Chinos",
-    "thumbnail": "https://placehold.co/200x200?text=Chinos",
+    "image": "https://via.placeholder.com/400x300?text=Chinos",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Chinos",
     "images": [
-      "https://placehold.co/400x300?text=Chinos",
-      "https://placehold.co/400x300?text=Chinos",
-      "https://placehold.co/400x300?text=Chinos",
-      "https://placehold.co/400x300?text=Chinos"
+      "https://via.placeholder.com/400x300?text=Chinos",
+      "https://via.placeholder.com/400x300?text=Chinos",
+      "https://via.placeholder.com/400x300?text=Chinos",
+      "https://via.placeholder.com/400x300?text=Chinos"
     ],
     "category": "Fashion",
     "brand": "UrbanWear",
@@ -640,13 +640,13 @@ const products = [
     "price": 49.99,
     "originalPrice": 69.99,
     "discountPercentage": 29,
-    "image": "https://placehold.co/400x300?text=Formal%20Shirt",
-    "thumbnail": "https://placehold.co/200x200?text=Formal%20Shirt",
+    "image": "https://via.placeholder.com/400x300?text=Formal%20Shirt",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Formal%20Shirt",
     "images": [
-      "https://placehold.co/400x300?text=Formal%20Shirt",
-      "https://placehold.co/400x300?text=Formal%20Shirt",
-      "https://placehold.co/400x300?text=Formal%20Shirt",
-      "https://placehold.co/400x300?text=Formal%20Shirt"
+      "https://via.placeholder.com/400x300?text=Formal%20Shirt",
+      "https://via.placeholder.com/400x300?text=Formal%20Shirt",
+      "https://via.placeholder.com/400x300?text=Formal%20Shirt",
+      "https://via.placeholder.com/400x300?text=Formal%20Shirt"
     ],
     "category": "Fashion",
     "brand": "UrbanWear",
@@ -677,13 +677,13 @@ const products = [
     "price": 44.99,
     "originalPrice": 64.99,
     "discountPercentage": 31,
-    "image": "https://placehold.co/400x300?text=Sweatshirt",
-    "thumbnail": "https://placehold.co/200x200?text=Sweatshirt",
+    "image": "https://via.placeholder.com/400x300?text=Sweatshirt",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Sweatshirt",
     "images": [
-      "https://placehold.co/400x300?text=Sweatshirt",
-      "https://placehold.co/400x300?text=Sweatshirt",
-      "https://placehold.co/400x300?text=Sweatshirt",
-      "https://placehold.co/400x300?text=Sweatshirt"
+      "https://via.placeholder.com/400x300?text=Sweatshirt",
+      "https://via.placeholder.com/400x300?text=Sweatshirt",
+      "https://via.placeholder.com/400x300?text=Sweatshirt",
+      "https://via.placeholder.com/400x300?text=Sweatshirt"
     ],
     "category": "Fashion",
     "brand": "ComfortWear",
@@ -714,13 +714,13 @@ const products = [
     "price": 54.99,
     "originalPrice": 79.99,
     "discountPercentage": 31,
-    "image": "https://placehold.co/400x300?text=Cargo%20Pants",
-    "thumbnail": "https://placehold.co/200x200?text=Cargo%20Pants",
+    "image": "https://via.placeholder.com/400x300?text=Cargo%20Pants",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Cargo%20Pants",
     "images": [
-      "https://placehold.co/400x300?text=Cargo%20Pants",
-      "https://placehold.co/400x300?text=Cargo%20Pants",
-      "https://placehold.co/400x300?text=Cargo%20Pants",
-      "https://placehold.co/400x300?text=Cargo%20Pants"
+      "https://via.placeholder.com/400x300?text=Cargo%20Pants",
+      "https://via.placeholder.com/400x300?text=Cargo%20Pants",
+      "https://via.placeholder.com/400x300?text=Cargo%20Pants",
+      "https://via.placeholder.com/400x300?text=Cargo%20Pants"
     ],
     "category": "Fashion",
     "brand": "OutdoorPro",
@@ -751,13 +751,13 @@ const products = [
     "price": 29.99,
     "originalPrice": 44.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Running%20Shorts",
-    "thumbnail": "https://placehold.co/200x200?text=Running%20Shorts",
+    "image": "https://via.placeholder.com/400x300?text=Running%20Shorts",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Running%20Shorts",
     "images": [
-      "https://placehold.co/400x300?text=Running%20Shorts",
-      "https://placehold.co/400x300?text=Running%20Shorts",
-      "https://placehold.co/400x300?text=Running%20Shorts",
-      "https://placehold.co/400x300?text=Running%20Shorts"
+      "https://via.placeholder.com/400x300?text=Running%20Shorts",
+      "https://via.placeholder.com/400x300?text=Running%20Shorts",
+      "https://via.placeholder.com/400x300?text=Running%20Shorts",
+      "https://via.placeholder.com/400x300?text=Running%20Shorts"
     ],
     "category": "Fashion",
     "brand": "SportWear",
@@ -788,13 +788,13 @@ const products = [
     "price": 49.99,
     "originalPrice": 69.99,
     "discountPercentage": 29,
-    "image": "https://placehold.co/400x300?text=LED%20Table%20Lamp",
-    "thumbnail": "https://placehold.co/200x200?text=LED%20Table%20Lamp",
+    "image": "https://via.placeholder.com/400x300?text=LED%20Table%20Lamp",
+    "thumbnail": "https://via.placeholder.com/200x200?text=LED%20Table%20Lamp",
     "images": [
-      "https://placehold.co/400x300?text=LED%20Table%20Lamp",
-      "https://placehold.co/400x300?text=LED%20Table%20Lamp",
-      "https://placehold.co/400x300?text=LED%20Table%20Lamp",
-      "https://placehold.co/400x300?text=LED%20Table%20Lamp"
+      "https://via.placeholder.com/400x300?text=LED%20Table%20Lamp",
+      "https://via.placeholder.com/400x300?text=LED%20Table%20Lamp",
+      "https://via.placeholder.com/400x300?text=LED%20Table%20Lamp",
+      "https://via.placeholder.com/400x300?text=LED%20Table%20Lamp"
     ],
     "category": "Home & Kitchen",
     "brand": "BrightHome",
@@ -825,13 +825,13 @@ const products = [
     "price": 69.99,
     "originalPrice": 99.99,
     "discountPercentage": 30,
-    "image": "https://placehold.co/400x300?text=Coffee%20Maker",
-    "thumbnail": "https://placehold.co/200x200?text=Coffee%20Maker",
+    "image": "https://via.placeholder.com/400x300?text=Coffee%20Maker",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Coffee%20Maker",
     "images": [
-      "https://placehold.co/400x300?text=Coffee%20Maker",
-      "https://placehold.co/400x300?text=Coffee%20Maker",
-      "https://placehold.co/400x300?text=Coffee%20Maker",
-      "https://placehold.co/400x300?text=Coffee%20Maker"
+      "https://via.placeholder.com/400x300?text=Coffee%20Maker",
+      "https://via.placeholder.com/400x300?text=Coffee%20Maker",
+      "https://via.placeholder.com/400x300?text=Coffee%20Maker",
+      "https://via.placeholder.com/400x300?text=Coffee%20Maker"
     ],
     "category": "Home & Kitchen",
     "brand": "KitchenPro",
@@ -862,13 +862,13 @@ const products = [
     "price": 149.99,
     "originalPrice": 199.99,
     "discountPercentage": 25,
-    "image": "https://placehold.co/400x300?text=Vacuum%20Cleaner",
-    "thumbnail": "https://placehold.co/200x200?text=Vacuum%20Cleaner",
+    "image": "https://via.placeholder.com/400x300?text=Vacuum%20Cleaner",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Vacuum%20Cleaner",
     "images": [
-      "https://placehold.co/400x300?text=Vacuum%20Cleaner",
-      "https://placehold.co/400x300?text=Vacuum%20Cleaner",
-      "https://placehold.co/400x300?text=Vacuum%20Cleaner",
-      "https://placehold.co/400x300?text=Vacuum%20Cleaner"
+      "https://via.placeholder.com/400x300?text=Vacuum%20Cleaner",
+      "https://via.placeholder.com/400x300?text=Vacuum%20Cleaner",
+      "https://via.placeholder.com/400x300?text=Vacuum%20Cleaner",
+      "https://via.placeholder.com/400x300?text=Vacuum%20Cleaner"
     ],
     "category": "Home & Kitchen",
     "brand": "CleanTech",
@@ -899,13 +899,13 @@ const products = [
     "price": 99.99,
     "originalPrice": 139.99,
     "discountPercentage": 29,
-    "image": "https://placehold.co/400x300?text=Air%20Fryer",
-    "thumbnail": "https://placehold.co/200x200?text=Air%20Fryer",
+    "image": "https://via.placeholder.com/400x300?text=Air%20Fryer",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Air%20Fryer",
     "images": [
-      "https://placehold.co/400x300?text=Air%20Fryer",
-      "https://placehold.co/400x300?text=Air%20Fryer",
-      "https://placehold.co/400x300?text=Air%20Fryer",
-      "https://placehold.co/400x300?text=Air%20Fryer"
+      "https://via.placeholder.com/400x300?text=Air%20Fryer",
+      "https://via.placeholder.com/400x300?text=Air%20Fryer",
+      "https://via.placeholder.com/400x300?text=Air%20Fryer",
+      "https://via.placeholder.com/400x300?text=Air%20Fryer"
     ],
     "category": "Home & Kitchen",
     "brand": "KitchenPro",
@@ -936,13 +936,13 @@ const products = [
     "price": 79.99,
     "originalPrice": 114.99,
     "discountPercentage": 30,
-    "image": "https://placehold.co/400x300?text=Blender",
-    "thumbnail": "https://placehold.co/200x200?text=Blender",
+    "image": "https://via.placeholder.com/400x300?text=Blender",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Blender",
     "images": [
-      "https://placehold.co/400x300?text=Blender",
-      "https://placehold.co/400x300?text=Blender",
-      "https://placehold.co/400x300?text=Blender",
-      "https://placehold.co/400x300?text=Blender"
+      "https://via.placeholder.com/400x300?text=Blender",
+      "https://via.placeholder.com/400x300?text=Blender",
+      "https://via.placeholder.com/400x300?text=Blender",
+      "https://via.placeholder.com/400x300?text=Blender"
     ],
     "category": "Home & Kitchen",
     "brand": "KitchenPro",
@@ -973,13 +973,13 @@ const products = [
     "price": 29.99,
     "originalPrice": 44.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Wall%20Clock",
-    "thumbnail": "https://placehold.co/200x200?text=Wall%20Clock",
+    "image": "https://via.placeholder.com/400x300?text=Wall%20Clock",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Wall%20Clock",
     "images": [
-      "https://placehold.co/400x300?text=Wall%20Clock",
-      "https://placehold.co/400x300?text=Wall%20Clock",
-      "https://placehold.co/400x300?text=Wall%20Clock",
-      "https://placehold.co/400x300?text=Wall%20Clock"
+      "https://via.placeholder.com/400x300?text=Wall%20Clock",
+      "https://via.placeholder.com/400x300?text=Wall%20Clock",
+      "https://via.placeholder.com/400x300?text=Wall%20Clock",
+      "https://via.placeholder.com/400x300?text=Wall%20Clock"
     ],
     "category": "Home & Kitchen",
     "brand": "TimeMaster",
@@ -1010,13 +1010,13 @@ const products = [
     "price": 39.99,
     "originalPrice": 59.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Storage%20Basket",
-    "thumbnail": "https://placehold.co/200x200?text=Storage%20Basket",
+    "image": "https://via.placeholder.com/400x300?text=Storage%20Basket",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Storage%20Basket",
     "images": [
-      "https://placehold.co/400x300?text=Storage%20Basket",
-      "https://placehold.co/400x300?text=Storage%20Basket",
-      "https://placehold.co/400x300?text=Storage%20Basket",
-      "https://placehold.co/400x300?text=Storage%20Basket"
+      "https://via.placeholder.com/400x300?text=Storage%20Basket",
+      "https://via.placeholder.com/400x300?text=Storage%20Basket",
+      "https://via.placeholder.com/400x300?text=Storage%20Basket",
+      "https://via.placeholder.com/400x300?text=Storage%20Basket"
     ],
     "category": "Home & Kitchen",
     "brand": "OrganizeIt",
@@ -1047,13 +1047,13 @@ const products = [
     "price": 49.99,
     "originalPrice": 74.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Bed%20Sheet%20Set",
-    "thumbnail": "https://placehold.co/200x200?text=Bed%20Sheet%20Set",
+    "image": "https://via.placeholder.com/400x300?text=Bed%20Sheet%20Set",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Bed%20Sheet%20Set",
     "images": [
-      "https://placehold.co/400x300?text=Bed%20Sheet%20Set",
-      "https://placehold.co/400x300?text=Bed%20Sheet%20Set",
-      "https://placehold.co/400x300?text=Bed%20Sheet%20Set",
-      "https://placehold.co/400x300?text=Bed%20Sheet%20Set"
+      "https://via.placeholder.com/400x300?text=Bed%20Sheet%20Set",
+      "https://via.placeholder.com/400x300?text=Bed%20Sheet%20Set",
+      "https://via.placeholder.com/400x300?text=Bed%20Sheet%20Set",
+      "https://via.placeholder.com/400x300?text=Bed%20Sheet%20Set"
     ],
     "category": "Home & Kitchen",
     "brand": "SleepWell",
@@ -1084,13 +1084,13 @@ const products = [
     "price": 129.99,
     "originalPrice": 179.99,
     "discountPercentage": 28,
-    "image": "https://placehold.co/400x300?text=Dining%20Chair",
-    "thumbnail": "https://placehold.co/200x200?text=Dining%20Chair",
+    "image": "https://via.placeholder.com/400x300?text=Dining%20Chair",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Dining%20Chair",
     "images": [
-      "https://placehold.co/400x300?text=Dining%20Chair",
-      "https://placehold.co/400x300?text=Dining%20Chair",
-      "https://placehold.co/400x300?text=Dining%20Chair",
-      "https://placehold.co/400x300?text=Dining%20Chair"
+      "https://via.placeholder.com/400x300?text=Dining%20Chair",
+      "https://via.placeholder.com/400x300?text=Dining%20Chair",
+      "https://via.placeholder.com/400x300?text=Dining%20Chair",
+      "https://via.placeholder.com/400x300?text=Dining%20Chair"
     ],
     "category": "Home & Kitchen",
     "brand": "HomeFurniture",
@@ -1121,13 +1121,13 @@ const products = [
     "price": 34.99,
     "originalPrice": 49.99,
     "discountPercentage": 30,
-    "image": "https://placehold.co/400x300?text=Kitchen%20Organizer",
-    "thumbnail": "https://placehold.co/200x200?text=Kitchen%20Organizer",
+    "image": "https://via.placeholder.com/400x300?text=Kitchen%20Organizer",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Kitchen%20Organizer",
     "images": [
-      "https://placehold.co/400x300?text=Kitchen%20Organizer",
-      "https://placehold.co/400x300?text=Kitchen%20Organizer",
-      "https://placehold.co/400x300?text=Kitchen%20Organizer",
-      "https://placehold.co/400x300?text=Kitchen%20Organizer"
+      "https://via.placeholder.com/400x300?text=Kitchen%20Organizer",
+      "https://via.placeholder.com/400x300?text=Kitchen%20Organizer",
+      "https://via.placeholder.com/400x300?text=Kitchen%20Organizer",
+      "https://via.placeholder.com/400x300?text=Kitchen%20Organizer"
     ],
     "category": "Home & Kitchen",
     "brand": "OrganizeIt",
@@ -1158,13 +1158,13 @@ const products = [
     "price": 14.99,
     "originalPrice": 24.99,
     "discountPercentage": 40,
-    "image": "https://placehold.co/400x300?text=Atomic%20Habits",
-    "thumbnail": "https://placehold.co/200x200?text=Atomic%20Habits",
+    "image": "https://via.placeholder.com/400x300?text=Atomic%20Habits",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Atomic%20Habits",
     "images": [
-      "https://placehold.co/400x300?text=Atomic%20Habits",
-      "https://placehold.co/400x300?text=Atomic%20Habits",
-      "https://placehold.co/400x300?text=Atomic%20Habits",
-      "https://placehold.co/400x300?text=Atomic%20Habits"
+      "https://via.placeholder.com/400x300?text=Atomic%20Habits",
+      "https://via.placeholder.com/400x300?text=Atomic%20Habits",
+      "https://via.placeholder.com/400x300?text=Atomic%20Habits",
+      "https://via.placeholder.com/400x300?text=Atomic%20Habits"
     ],
     "category": "Books",
     "brand": "Penguin",
@@ -1195,13 +1195,13 @@ const products = [
     "price": 16.99,
     "originalPrice": 27.99,
     "discountPercentage": 39,
-    "image": "https://placehold.co/400x300?text=The%20Psychology%20of%20Money",
-    "thumbnail": "https://placehold.co/200x200?text=The%20Psychology%20of%20Money",
+    "image": "https://via.placeholder.com/400x300?text=The%20Psychology%20of%20Money",
+    "thumbnail": "https://via.placeholder.com/200x200?text=The%20Psychology%20of%20Money",
     "images": [
-      "https://placehold.co/400x300?text=The%20Psychology%20of%20Money",
-      "https://placehold.co/400x300?text=The%20Psychology%20of%20Money",
-      "https://placehold.co/400x300?text=The%20Psychology%20of%20Money",
-      "https://placehold.co/400x300?text=The%20Psychology%20of%20Money"
+      "https://via.placeholder.com/400x300?text=The%20Psychology%20of%20Money",
+      "https://via.placeholder.com/400x300?text=The%20Psychology%20of%20Money",
+      "https://via.placeholder.com/400x300?text=The%20Psychology%20of%20Money",
+      "https://via.placeholder.com/400x300?text=The%20Psychology%20of%20Money"
     ],
     "category": "Books",
     "brand": "HarperCollins",
@@ -1232,13 +1232,13 @@ const products = [
     "price": 15.99,
     "originalPrice": 25.99,
     "discountPercentage": 38,
-    "image": "https://placehold.co/400x300?text=Deep%20Work",
-    "thumbnail": "https://placehold.co/200x200?text=Deep%20Work",
+    "image": "https://via.placeholder.com/400x300?text=Deep%20Work",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Deep%20Work",
     "images": [
-      "https://placehold.co/400x300?text=Deep%20Work",
-      "https://placehold.co/400x300?text=Deep%20Work",
-      "https://placehold.co/400x300?text=Deep%20Work",
-      "https://placehold.co/400x300?text=Deep%20Work"
+      "https://via.placeholder.com/400x300?text=Deep%20Work",
+      "https://via.placeholder.com/400x300?text=Deep%20Work",
+      "https://via.placeholder.com/400x300?text=Deep%20Work",
+      "https://via.placeholder.com/400x300?text=Deep%20Work"
     ],
     "category": "Books",
     "brand": "Grand Central",
@@ -1269,13 +1269,13 @@ const products = [
     "price": 12.99,
     "originalPrice": 21.99,
     "discountPercentage": 41,
-    "image": "https://placehold.co/400x300?text=Rich%20Dad%20Poor%20Dad",
-    "thumbnail": "https://placehold.co/200x200?text=Rich%20Dad%20Poor%20Dad",
+    "image": "https://via.placeholder.com/400x300?text=Rich%20Dad%20Poor%20Dad",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Rich%20Dad%20Poor%20Dad",
     "images": [
-      "https://placehold.co/400x300?text=Rich%20Dad%20Poor%20Dad",
-      "https://placehold.co/400x300?text=Rich%20Dad%20Poor%20Dad",
-      "https://placehold.co/400x300?text=Rich%20Dad%20Poor%20Dad",
-      "https://placehold.co/400x300?text=Rich%20Dad%20Poor%20Dad"
+      "https://via.placeholder.com/400x300?text=Rich%20Dad%20Poor%20Dad",
+      "https://via.placeholder.com/400x300?text=Rich%20Dad%20Poor%20Dad",
+      "https://via.placeholder.com/400x300?text=Rich%20Dad%20Poor%20Dad",
+      "https://via.placeholder.com/400x300?text=Rich%20Dad%20Poor%20Dad"
     ],
     "category": "Books",
     "brand": "Plata Publishing",
@@ -1306,13 +1306,13 @@ const products = [
     "price": 13.99,
     "originalPrice": 22.99,
     "discountPercentage": 39,
-    "image": "https://placehold.co/400x300?text=The%20Alchemist",
-    "thumbnail": "https://placehold.co/200x200?text=The%20Alchemist",
+    "image": "https://via.placeholder.com/400x300?text=The%20Alchemist",
+    "thumbnail": "https://via.placeholder.com/200x200?text=The%20Alchemist",
     "images": [
-      "https://placehold.co/400x300?text=The%20Alchemist",
-      "https://placehold.co/400x300?text=The%20Alchemist",
-      "https://placehold.co/400x300?text=The%20Alchemist",
-      "https://placehold.co/400x300?text=The%20Alchemist"
+      "https://via.placeholder.com/400x300?text=The%20Alchemist",
+      "https://via.placeholder.com/400x300?text=The%20Alchemist",
+      "https://via.placeholder.com/400x300?text=The%20Alchemist",
+      "https://via.placeholder.com/400x300?text=The%20Alchemist"
     ],
     "category": "Books",
     "brand": "HarperCollins",
@@ -1343,13 +1343,13 @@ const products = [
     "price": 17.99,
     "originalPrice": 28.99,
     "discountPercentage": 38,
-    "image": "https://placehold.co/400x300?text=Ikigai",
-    "thumbnail": "https://placehold.co/200x200?text=Ikigai",
+    "image": "https://via.placeholder.com/400x300?text=Ikigai",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Ikigai",
     "images": [
-      "https://placehold.co/400x300?text=Ikigai",
-      "https://placehold.co/400x300?text=Ikigai",
-      "https://placehold.co/400x300?text=Ikigai",
-      "https://placehold.co/400x300?text=Ikigai"
+      "https://via.placeholder.com/400x300?text=Ikigai",
+      "https://via.placeholder.com/400x300?text=Ikigai",
+      "https://via.placeholder.com/400x300?text=Ikigai",
+      "https://via.placeholder.com/400x300?text=Ikigai"
     ],
     "category": "Books",
     "brand": "Penguin",
@@ -1380,13 +1380,13 @@ const products = [
     "price": 44.99,
     "originalPrice": 64.99,
     "discountPercentage": 31,
-    "image": "https://placehold.co/400x300?text=Clean%20Code",
-    "thumbnail": "https://placehold.co/200x200?text=Clean%20Code",
+    "image": "https://via.placeholder.com/400x300?text=Clean%20Code",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Clean%20Code",
     "images": [
-      "https://placehold.co/400x300?text=Clean%20Code",
-      "https://placehold.co/400x300?text=Clean%20Code",
-      "https://placehold.co/400x300?text=Clean%20Code",
-      "https://placehold.co/400x300?text=Clean%20Code"
+      "https://via.placeholder.com/400x300?text=Clean%20Code",
+      "https://via.placeholder.com/400x300?text=Clean%20Code",
+      "https://via.placeholder.com/400x300?text=Clean%20Code",
+      "https://via.placeholder.com/400x300?text=Clean%20Code"
     ],
     "category": "Books",
     "brand": "Prentice Hall",
@@ -1417,13 +1417,13 @@ const products = [
     "price": 9.99,
     "originalPrice": 17.99,
     "discountPercentage": 44,
-    "image": "https://placehold.co/400x300?text=Think%20and%20Grow%20Rich",
-    "thumbnail": "https://placehold.co/200x200?text=Think%20and%20Grow%20Rich",
+    "image": "https://via.placeholder.com/400x300?text=Think%20and%20Grow%20Rich",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Think%20and%20Grow%20Rich",
     "images": [
-      "https://placehold.co/400x300?text=Think%20and%20Grow%20Rich",
-      "https://placehold.co/400x300?text=Think%20and%20Grow%20Rich",
-      "https://placehold.co/400x300?text=Think%20and%20Grow%20Rich",
-      "https://placehold.co/400x300?text=Think%20and%20Grow%20Rich"
+      "https://via.placeholder.com/400x300?text=Think%20and%20Grow%20Rich",
+      "https://via.placeholder.com/400x300?text=Think%20and%20Grow%20Rich",
+      "https://via.placeholder.com/400x300?text=Think%20and%20Grow%20Rich",
+      "https://via.placeholder.com/400x300?text=Think%20and%20Grow%20Rich"
     ],
     "category": "Books",
     "brand": "Fawcett",
@@ -1454,13 +1454,13 @@ const products = [
     "price": 21.99,
     "originalPrice": 34.99,
     "discountPercentage": 37,
-    "image": "https://placehold.co/400x300?text=The%20Lean%20Startup",
-    "thumbnail": "https://placehold.co/200x200?text=The%20Lean%20Startup",
+    "image": "https://via.placeholder.com/400x300?text=The%20Lean%20Startup",
+    "thumbnail": "https://via.placeholder.com/200x200?text=The%20Lean%20Startup",
     "images": [
-      "https://placehold.co/400x300?text=The%20Lean%20Startup",
-      "https://placehold.co/400x300?text=The%20Lean%20Startup",
-      "https://placehold.co/400x300?text=The%20Lean%20Startup",
-      "https://placehold.co/400x300?text=The%20Lean%20Startup"
+      "https://via.placeholder.com/400x300?text=The%20Lean%20Startup",
+      "https://via.placeholder.com/400x300?text=The%20Lean%20Startup",
+      "https://via.placeholder.com/400x300?text=The%20Lean%20Startup",
+      "https://via.placeholder.com/400x300?text=The%20Lean%20Startup"
     ],
     "category": "Books",
     "brand": "Crown Business",
@@ -1491,13 +1491,13 @@ const products = [
     "price": 79.99,
     "originalPrice": 129.99,
     "discountPercentage": 38,
-    "image": "https://placehold.co/400x300?text=Harry%20Potter%20Collection",
-    "thumbnail": "https://placehold.co/200x200?text=Harry%20Potter%20Collection",
+    "image": "https://via.placeholder.com/400x300?text=Harry%20Potter%20Collection",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Harry%20Potter%20Collection",
     "images": [
-      "https://placehold.co/400x300?text=Harry%20Potter%20Collection",
-      "https://placehold.co/400x300?text=Harry%20Potter%20Collection",
-      "https://placehold.co/400x300?text=Harry%20Potter%20Collection",
-      "https://placehold.co/400x300?text=Harry%20Potter%20Collection"
+      "https://via.placeholder.com/400x300?text=Harry%20Potter%20Collection",
+      "https://via.placeholder.com/400x300?text=Harry%20Potter%20Collection",
+      "https://via.placeholder.com/400x300?text=Harry%20Potter%20Collection",
+      "https://via.placeholder.com/400x300?text=Harry%20Potter%20Collection"
     ],
     "category": "Books",
     "brand": "Scholastic",
@@ -1528,13 +1528,13 @@ const products = [
     "price": 29.99,
     "originalPrice": 44.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Yoga%20Mat%20Premium",
-    "thumbnail": "https://placehold.co/200x200?text=Yoga%20Mat%20Premium",
+    "image": "https://via.placeholder.com/400x300?text=Yoga%20Mat%20Premium",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Yoga%20Mat%20Premium",
     "images": [
-      "https://placehold.co/400x300?text=Yoga%20Mat%20Premium",
-      "https://placehold.co/400x300?text=Yoga%20Mat%20Premium",
-      "https://placehold.co/400x300?text=Yoga%20Mat%20Premium",
-      "https://placehold.co/400x300?text=Yoga%20Mat%20Premium"
+      "https://via.placeholder.com/400x300?text=Yoga%20Mat%20Premium",
+      "https://via.placeholder.com/400x300?text=Yoga%20Mat%20Premium",
+      "https://via.placeholder.com/400x300?text=Yoga%20Mat%20Premium",
+      "https://via.placeholder.com/400x300?text=Yoga%20Mat%20Premium"
     ],
     "category": "Sports & Fitness",
     "brand": "FitnessPro",
@@ -1565,13 +1565,13 @@ const products = [
     "price": 24.99,
     "originalPrice": 39.99,
     "discountPercentage": 37,
-    "image": "https://placehold.co/400x300?text=Football",
-    "thumbnail": "https://placehold.co/200x200?text=Football",
+    "image": "https://via.placeholder.com/400x300?text=Football",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Football",
     "images": [
-      "https://placehold.co/400x300?text=Football",
-      "https://placehold.co/400x300?text=Football",
-      "https://placehold.co/400x300?text=Football",
-      "https://placehold.co/400x300?text=Football"
+      "https://via.placeholder.com/400x300?text=Football",
+      "https://via.placeholder.com/400x300?text=Football",
+      "https://via.placeholder.com/400x300?text=Football",
+      "https://via.placeholder.com/400x300?text=Football"
     ],
     "category": "Sports & Fitness",
     "brand": "ProSports",
@@ -1602,13 +1602,13 @@ const products = [
     "price": 29.99,
     "originalPrice": 44.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Basketball",
-    "thumbnail": "https://placehold.co/200x200?text=Basketball",
+    "image": "https://via.placeholder.com/400x300?text=Basketball",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Basketball",
     "images": [
-      "https://placehold.co/400x300?text=Basketball",
-      "https://placehold.co/400x300?text=Basketball",
-      "https://placehold.co/400x300?text=Basketball",
-      "https://placehold.co/400x300?text=Basketball"
+      "https://via.placeholder.com/400x300?text=Basketball",
+      "https://via.placeholder.com/400x300?text=Basketball",
+      "https://via.placeholder.com/400x300?text=Basketball",
+      "https://via.placeholder.com/400x300?text=Basketball"
     ],
     "category": "Sports & Fitness",
     "brand": "ProSports",
@@ -1639,13 +1639,13 @@ const products = [
     "price": 69.99,
     "originalPrice": 99.99,
     "discountPercentage": 30,
-    "image": "https://placehold.co/400x300?text=Cricket%20Bat",
-    "thumbnail": "https://placehold.co/200x200?text=Cricket%20Bat",
+    "image": "https://via.placeholder.com/400x300?text=Cricket%20Bat",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Cricket%20Bat",
     "images": [
-      "https://placehold.co/400x300?text=Cricket%20Bat",
-      "https://placehold.co/400x300?text=Cricket%20Bat",
-      "https://placehold.co/400x300?text=Cricket%20Bat",
-      "https://placehold.co/400x300?text=Cricket%20Bat"
+      "https://via.placeholder.com/400x300?text=Cricket%20Bat",
+      "https://via.placeholder.com/400x300?text=Cricket%20Bat",
+      "https://via.placeholder.com/400x300?text=Cricket%20Bat",
+      "https://via.placeholder.com/400x300?text=Cricket%20Bat"
     ],
     "category": "Sports & Fitness",
     "brand": "CricketPro",
@@ -1676,13 +1676,13 @@ const products = [
     "price": 99.99,
     "originalPrice": 149.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Dumbbells",
-    "thumbnail": "https://placehold.co/200x200?text=Dumbbells",
+    "image": "https://via.placeholder.com/400x300?text=Dumbbells",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Dumbbells",
     "images": [
-      "https://placehold.co/400x300?text=Dumbbells",
-      "https://placehold.co/400x300?text=Dumbbells",
-      "https://placehold.co/400x300?text=Dumbbells",
-      "https://placehold.co/400x300?text=Dumbbells"
+      "https://via.placeholder.com/400x300?text=Dumbbells",
+      "https://via.placeholder.com/400x300?text=Dumbbells",
+      "https://via.placeholder.com/400x300?text=Dumbbells",
+      "https://via.placeholder.com/400x300?text=Dumbbells"
     ],
     "category": "Sports & Fitness",
     "brand": "FitnessPro",
@@ -1713,13 +1713,13 @@ const products = [
     "price": 19.99,
     "originalPrice": 34.99,
     "discountPercentage": 43,
-    "image": "https://placehold.co/400x300?text=Resistance%20Bands",
-    "thumbnail": "https://placehold.co/200x200?text=Resistance%20Bands",
+    "image": "https://via.placeholder.com/400x300?text=Resistance%20Bands",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Resistance%20Bands",
     "images": [
-      "https://placehold.co/400x300?text=Resistance%20Bands",
-      "https://placehold.co/400x300?text=Resistance%20Bands",
-      "https://placehold.co/400x300?text=Resistance%20Bands",
-      "https://placehold.co/400x300?text=Resistance%20Bands"
+      "https://via.placeholder.com/400x300?text=Resistance%20Bands",
+      "https://via.placeholder.com/400x300?text=Resistance%20Bands",
+      "https://via.placeholder.com/400x300?text=Resistance%20Bands",
+      "https://via.placeholder.com/400x300?text=Resistance%20Bands"
     ],
     "category": "Sports & Fitness",
     "brand": "FitnessPro",
@@ -1750,13 +1750,13 @@ const products = [
     "price": 14.99,
     "originalPrice": 24.99,
     "discountPercentage": 40,
-    "image": "https://placehold.co/400x300?text=Skipping%20Rope",
-    "thumbnail": "https://placehold.co/200x200?text=Skipping%20Rope",
+    "image": "https://via.placeholder.com/400x300?text=Skipping%20Rope",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Skipping%20Rope",
     "images": [
-      "https://placehold.co/400x300?text=Skipping%20Rope",
-      "https://placehold.co/400x300?text=Skipping%20Rope",
-      "https://placehold.co/400x300?text=Skipping%20Rope",
-      "https://placehold.co/400x300?text=Skipping%20Rope"
+      "https://via.placeholder.com/400x300?text=Skipping%20Rope",
+      "https://via.placeholder.com/400x300?text=Skipping%20Rope",
+      "https://via.placeholder.com/400x300?text=Skipping%20Rope",
+      "https://via.placeholder.com/400x300?text=Skipping%20Rope"
     ],
     "category": "Sports & Fitness",
     "brand": "FitnessPro",
@@ -1787,13 +1787,13 @@ const products = [
     "price": 79.99,
     "originalPrice": 119.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Tennis%20Racket",
-    "thumbnail": "https://placehold.co/200x200?text=Tennis%20Racket",
+    "image": "https://via.placeholder.com/400x300?text=Tennis%20Racket",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Tennis%20Racket",
     "images": [
-      "https://placehold.co/400x300?text=Tennis%20Racket",
-      "https://placehold.co/400x300?text=Tennis%20Racket",
-      "https://placehold.co/400x300?text=Tennis%20Racket",
-      "https://placehold.co/400x300?text=Tennis%20Racket"
+      "https://via.placeholder.com/400x300?text=Tennis%20Racket",
+      "https://via.placeholder.com/400x300?text=Tennis%20Racket",
+      "https://via.placeholder.com/400x300?text=Tennis%20Racket",
+      "https://via.placeholder.com/400x300?text=Tennis%20Racket"
     ],
     "category": "Sports & Fitness",
     "brand": "CourtPro",
@@ -1824,13 +1824,13 @@ const products = [
     "price": 19.99,
     "originalPrice": 29.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Gym%20Gloves",
-    "thumbnail": "https://placehold.co/200x200?text=Gym%20Gloves",
+    "image": "https://via.placeholder.com/400x300?text=Gym%20Gloves",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Gym%20Gloves",
     "images": [
-      "https://placehold.co/400x300?text=Gym%20Gloves",
-      "https://placehold.co/400x300?text=Gym%20Gloves",
-      "https://placehold.co/400x300?text=Gym%20Gloves",
-      "https://placehold.co/400x300?text=Gym%20Gloves"
+      "https://via.placeholder.com/400x300?text=Gym%20Gloves",
+      "https://via.placeholder.com/400x300?text=Gym%20Gloves",
+      "https://via.placeholder.com/400x300?text=Gym%20Gloves",
+      "https://via.placeholder.com/400x300?text=Gym%20Gloves"
     ],
     "category": "Sports & Fitness",
     "brand": "FitnessPro",
@@ -1861,13 +1861,13 @@ const products = [
     "price": 24.99,
     "originalPrice": 39.99,
     "discountPercentage": 37,
-    "image": "https://placehold.co/400x300?text=Water%20Bottle",
-    "thumbnail": "https://placehold.co/200x200?text=Water%20Bottle",
+    "image": "https://via.placeholder.com/400x300?text=Water%20Bottle",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Water%20Bottle",
     "images": [
-      "https://placehold.co/400x300?text=Water%20Bottle",
-      "https://placehold.co/400x300?text=Water%20Bottle",
-      "https://placehold.co/400x300?text=Water%20Bottle",
-      "https://placehold.co/400x300?text=Water%20Bottle"
+      "https://via.placeholder.com/400x300?text=Water%20Bottle",
+      "https://via.placeholder.com/400x300?text=Water%20Bottle",
+      "https://via.placeholder.com/400x300?text=Water%20Bottle",
+      "https://via.placeholder.com/400x300?text=Water%20Bottle"
     ],
     "category": "Sports & Fitness",
     "brand": "HydroPro",
@@ -1898,13 +1898,13 @@ const products = [
     "price": 29.99,
     "originalPrice": 44.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Vitamin%20C%20Serum",
-    "thumbnail": "https://placehold.co/200x200?text=Vitamin%20C%20Serum",
+    "image": "https://via.placeholder.com/400x300?text=Vitamin%20C%20Serum",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Vitamin%20C%20Serum",
     "images": [
-      "https://placehold.co/400x300?text=Vitamin%20C%20Serum",
-      "https://placehold.co/400x300?text=Vitamin%20C%20Serum",
-      "https://placehold.co/400x300?text=Vitamin%20C%20Serum",
-      "https://placehold.co/400x300?text=Vitamin%20C%20Serum"
+      "https://via.placeholder.com/400x300?text=Vitamin%20C%20Serum",
+      "https://via.placeholder.com/400x300?text=Vitamin%20C%20Serum",
+      "https://via.placeholder.com/400x300?text=Vitamin%20C%20Serum",
+      "https://via.placeholder.com/400x300?text=Vitamin%20C%20Serum"
     ],
     "category": "Beauty & Personal Care",
     "brand": "GlowBeauty",
@@ -1935,13 +1935,13 @@ const products = [
     "price": 24.99,
     "originalPrice": 39.99,
     "discountPercentage": 37,
-    "image": "https://placehold.co/400x300?text=Moisturizing%20Face%20Cream",
-    "thumbnail": "https://placehold.co/200x200?text=Moisturizing%20Face%20Cream",
+    "image": "https://via.placeholder.com/400x300?text=Moisturizing%20Face%20Cream",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Moisturizing%20Face%20Cream",
     "images": [
-      "https://placehold.co/400x300?text=Moisturizing%20Face%20Cream",
-      "https://placehold.co/400x300?text=Moisturizing%20Face%20Cream",
-      "https://placehold.co/400x300?text=Moisturizing%20Face%20Cream",
-      "https://placehold.co/400x300?text=Moisturizing%20Face%20Cream"
+      "https://via.placeholder.com/400x300?text=Moisturizing%20Face%20Cream",
+      "https://via.placeholder.com/400x300?text=Moisturizing%20Face%20Cream",
+      "https://via.placeholder.com/400x300?text=Moisturizing%20Face%20Cream",
+      "https://via.placeholder.com/400x300?text=Moisturizing%20Face%20Cream"
     ],
     "category": "Beauty & Personal Care",
     "brand": "GlowBeauty",
@@ -1972,13 +1972,13 @@ const products = [
     "price": 39.99,
     "originalPrice": 59.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Lipstick%20Set%20(12%20Colors)",
-    "thumbnail": "https://placehold.co/200x200?text=Lipstick%20Set%20(12%20Colors)",
+    "image": "https://via.placeholder.com/400x300?text=Lipstick%20Set%20(12%20Colors)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Lipstick%20Set%20(12%20Colors)",
     "images": [
-      "https://placehold.co/400x300?text=Lipstick%20Set%20(12%20Colors)",
-      "https://placehold.co/400x300?text=Lipstick%20Set%20(12%20Colors)",
-      "https://placehold.co/400x300?text=Lipstick%20Set%20(12%20Colors)",
-      "https://placehold.co/400x300?text=Lipstick%20Set%20(12%20Colors)"
+      "https://via.placeholder.com/400x300?text=Lipstick%20Set%20(12%20Colors)",
+      "https://via.placeholder.com/400x300?text=Lipstick%20Set%20(12%20Colors)",
+      "https://via.placeholder.com/400x300?text=Lipstick%20Set%20(12%20Colors)",
+      "https://via.placeholder.com/400x300?text=Lipstick%20Set%20(12%20Colors)"
     ],
     "category": "Beauty & Personal Care",
     "brand": "ColorPro",
@@ -2009,13 +2009,13 @@ const products = [
     "price": 14.99,
     "originalPrice": 24.99,
     "discountPercentage": 40,
-    "image": "https://placehold.co/400x300?text=Mascara%20Volume%20%26%20Length",
-    "thumbnail": "https://placehold.co/200x200?text=Mascara%20Volume%20%26%20Length",
+    "image": "https://via.placeholder.com/400x300?text=Mascara%20Volume%20%26%20Length",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Mascara%20Volume%20%26%20Length",
     "images": [
-      "https://placehold.co/400x300?text=Mascara%20Volume%20%26%20Length",
-      "https://placehold.co/400x300?text=Mascara%20Volume%20%26%20Length",
-      "https://placehold.co/400x300?text=Mascara%20Volume%20%26%20Length",
-      "https://placehold.co/400x300?text=Mascara%20Volume%20%26%20Length"
+      "https://via.placeholder.com/400x300?text=Mascara%20Volume%20%26%20Length",
+      "https://via.placeholder.com/400x300?text=Mascara%20Volume%20%26%20Length",
+      "https://via.placeholder.com/400x300?text=Mascara%20Volume%20%26%20Length",
+      "https://via.placeholder.com/400x300?text=Mascara%20Volume%20%26%20Length"
     ],
     "category": "Beauty & Personal Care",
     "brand": "ColorPro",
@@ -2046,13 +2046,13 @@ const products = [
     "price": 29.99,
     "originalPrice": 44.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Shampoo%20%26%20Conditioner%20Set",
-    "thumbnail": "https://placehold.co/200x200?text=Shampoo%20%26%20Conditioner%20Set",
+    "image": "https://via.placeholder.com/400x300?text=Shampoo%20%26%20Conditioner%20Set",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Shampoo%20%26%20Conditioner%20Set",
     "images": [
-      "https://placehold.co/400x300?text=Shampoo%20%26%20Conditioner%20Set",
-      "https://placehold.co/400x300?text=Shampoo%20%26%20Conditioner%20Set",
-      "https://placehold.co/400x300?text=Shampoo%20%26%20Conditioner%20Set",
-      "https://placehold.co/400x300?text=Shampoo%20%26%20Conditioner%20Set"
+      "https://via.placeholder.com/400x300?text=Shampoo%20%26%20Conditioner%20Set",
+      "https://via.placeholder.com/400x300?text=Shampoo%20%26%20Conditioner%20Set",
+      "https://via.placeholder.com/400x300?text=Shampoo%20%26%20Conditioner%20Set",
+      "https://via.placeholder.com/400x300?text=Shampoo%20%26%20Conditioner%20Set"
     ],
     "category": "Beauty & Personal Care",
     "brand": "HairPro",
@@ -2083,13 +2083,13 @@ const products = [
     "price": 19.99,
     "originalPrice": 29.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Facial%20Cleanser",
-    "thumbnail": "https://placehold.co/200x200?text=Facial%20Cleanser",
+    "image": "https://via.placeholder.com/400x300?text=Facial%20Cleanser",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Facial%20Cleanser",
     "images": [
-      "https://placehold.co/400x300?text=Facial%20Cleanser",
-      "https://placehold.co/400x300?text=Facial%20Cleanser",
-      "https://placehold.co/400x300?text=Facial%20Cleanser",
-      "https://placehold.co/400x300?text=Facial%20Cleanser"
+      "https://via.placeholder.com/400x300?text=Facial%20Cleanser",
+      "https://via.placeholder.com/400x300?text=Facial%20Cleanser",
+      "https://via.placeholder.com/400x300?text=Facial%20Cleanser",
+      "https://via.placeholder.com/400x300?text=Facial%20Cleanser"
     ],
     "category": "Beauty & Personal Care",
     "brand": "GlowBeauty",
@@ -2120,13 +2120,13 @@ const products = [
     "price": 24.99,
     "originalPrice": 39.99,
     "discountPercentage": 37,
-    "image": "https://placehold.co/400x300?text=Nail%20Polish%20Set%20(18%20Colors)",
-    "thumbnail": "https://placehold.co/200x200?text=Nail%20Polish%20Set%20(18%20Colors)",
+    "image": "https://via.placeholder.com/400x300?text=Nail%20Polish%20Set%20(18%20Colors)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Nail%20Polish%20Set%20(18%20Colors)",
     "images": [
-      "https://placehold.co/400x300?text=Nail%20Polish%20Set%20(18%20Colors)",
-      "https://placehold.co/400x300?text=Nail%20Polish%20Set%20(18%20Colors)",
-      "https://placehold.co/400x300?text=Nail%20Polish%20Set%20(18%20Colors)",
-      "https://placehold.co/400x300?text=Nail%20Polish%20Set%20(18%20Colors)"
+      "https://via.placeholder.com/400x300?text=Nail%20Polish%20Set%20(18%20Colors)",
+      "https://via.placeholder.com/400x300?text=Nail%20Polish%20Set%20(18%20Colors)",
+      "https://via.placeholder.com/400x300?text=Nail%20Polish%20Set%20(18%20Colors)",
+      "https://via.placeholder.com/400x300?text=Nail%20Polish%20Set%20(18%20Colors)"
     ],
     "category": "Beauty & Personal Care",
     "brand": "ColorPro",
@@ -2157,13 +2157,13 @@ const products = [
     "price": 59.99,
     "originalPrice": 89.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Perfume%20(100ml)",
-    "thumbnail": "https://placehold.co/200x200?text=Perfume%20(100ml)",
+    "image": "https://via.placeholder.com/400x300?text=Perfume%20(100ml)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Perfume%20(100ml)",
     "images": [
-      "https://placehold.co/400x300?text=Perfume%20(100ml)",
-      "https://placehold.co/400x300?text=Perfume%20(100ml)",
-      "https://placehold.co/400x300?text=Perfume%20(100ml)",
-      "https://placehold.co/400x300?text=Perfume%20(100ml)"
+      "https://via.placeholder.com/400x300?text=Perfume%20(100ml)",
+      "https://via.placeholder.com/400x300?text=Perfume%20(100ml)",
+      "https://via.placeholder.com/400x300?text=Perfume%20(100ml)",
+      "https://via.placeholder.com/400x300?text=Perfume%20(100ml)"
     ],
     "category": "Beauty & Personal Care",
     "brand": "ScentPro",
@@ -2194,13 +2194,13 @@ const products = [
     "price": 19.99,
     "originalPrice": 29.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Face%20Mask%20Set%20(5%20Pack)",
-    "thumbnail": "https://placehold.co/200x200?text=Face%20Mask%20Set%20(5%20Pack)",
+    "image": "https://via.placeholder.com/400x300?text=Face%20Mask%20Set%20(5%20Pack)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Face%20Mask%20Set%20(5%20Pack)",
     "images": [
-      "https://placehold.co/400x300?text=Face%20Mask%20Set%20(5%20Pack)",
-      "https://placehold.co/400x300?text=Face%20Mask%20Set%20(5%20Pack)",
-      "https://placehold.co/400x300?text=Face%20Mask%20Set%20(5%20Pack)",
-      "https://placehold.co/400x300?text=Face%20Mask%20Set%20(5%20Pack)"
+      "https://via.placeholder.com/400x300?text=Face%20Mask%20Set%20(5%20Pack)",
+      "https://via.placeholder.com/400x300?text=Face%20Mask%20Set%20(5%20Pack)",
+      "https://via.placeholder.com/400x300?text=Face%20Mask%20Set%20(5%20Pack)",
+      "https://via.placeholder.com/400x300?text=Face%20Mask%20Set%20(5%20Pack)"
     ],
     "category": "Beauty & Personal Care",
     "brand": "GlowBeauty",
@@ -2231,13 +2231,13 @@ const products = [
     "price": 19.99,
     "originalPrice": 29.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Deodorant%20(Pack%20of%203)",
-    "thumbnail": "https://placehold.co/200x200?text=Deodorant%20(Pack%20of%203)",
+    "image": "https://via.placeholder.com/400x300?text=Deodorant%20(Pack%20of%203)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Deodorant%20(Pack%20of%203)",
     "images": [
-      "https://placehold.co/400x300?text=Deodorant%20(Pack%20of%203)",
-      "https://placehold.co/400x300?text=Deodorant%20(Pack%20of%203)",
-      "https://placehold.co/400x300?text=Deodorant%20(Pack%20of%203)",
-      "https://placehold.co/400x300?text=Deodorant%20(Pack%20of%203)"
+      "https://via.placeholder.com/400x300?text=Deodorant%20(Pack%20of%203)",
+      "https://via.placeholder.com/400x300?text=Deodorant%20(Pack%20of%203)",
+      "https://via.placeholder.com/400x300?text=Deodorant%20(Pack%20of%203)",
+      "https://via.placeholder.com/400x300?text=Deodorant%20(Pack%20of%203)"
     ],
     "category": "Beauty & Personal Care",
     "brand": "FreshPro",
@@ -2268,13 +2268,13 @@ const products = [
     "price": 24.99,
     "originalPrice": 34.99,
     "discountPercentage": 29,
-    "image": "https://placehold.co/400x300?text=Organic%20Almonds%20(1kg)",
-    "thumbnail": "https://placehold.co/200x200?text=Organic%20Almonds%20(1kg)",
+    "image": "https://via.placeholder.com/400x300?text=Organic%20Almonds%20(1kg)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Organic%20Almonds%20(1kg)",
     "images": [
-      "https://placehold.co/400x300?text=Organic%20Almonds%20(1kg)",
-      "https://placehold.co/400x300?text=Organic%20Almonds%20(1kg)",
-      "https://placehold.co/400x300?text=Organic%20Almonds%20(1kg)",
-      "https://placehold.co/400x300?text=Organic%20Almonds%20(1kg)"
+      "https://via.placeholder.com/400x300?text=Organic%20Almonds%20(1kg)",
+      "https://via.placeholder.com/400x300?text=Organic%20Almonds%20(1kg)",
+      "https://via.placeholder.com/400x300?text=Organic%20Almonds%20(1kg)",
+      "https://via.placeholder.com/400x300?text=Organic%20Almonds%20(1kg)"
     ],
     "category": "Grocery",
     "brand": "OrganicPro",
@@ -2305,13 +2305,13 @@ const products = [
     "price": 14.99,
     "originalPrice": 22.99,
     "discountPercentage": 35,
-    "image": "https://placehold.co/400x300?text=Greek%20Yogurt%20(Pack%20of%206)",
-    "thumbnail": "https://placehold.co/200x200?text=Greek%20Yogurt%20(Pack%20of%206)",
+    "image": "https://via.placeholder.com/400x300?text=Greek%20Yogurt%20(Pack%20of%206)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Greek%20Yogurt%20(Pack%20of%206)",
     "images": [
-      "https://placehold.co/400x300?text=Greek%20Yogurt%20(Pack%20of%206)",
-      "https://placehold.co/400x300?text=Greek%20Yogurt%20(Pack%20of%206)",
-      "https://placehold.co/400x300?text=Greek%20Yogurt%20(Pack%20of%206)",
-      "https://placehold.co/400x300?text=Greek%20Yogurt%20(Pack%20of%206)"
+      "https://via.placeholder.com/400x300?text=Greek%20Yogurt%20(Pack%20of%206)",
+      "https://via.placeholder.com/400x300?text=Greek%20Yogurt%20(Pack%20of%206)",
+      "https://via.placeholder.com/400x300?text=Greek%20Yogurt%20(Pack%20of%206)",
+      "https://via.placeholder.com/400x300?text=Greek%20Yogurt%20(Pack%20of%206)"
     ],
     "category": "Grocery",
     "brand": "DairyPro",
@@ -2342,13 +2342,13 @@ const products = [
     "price": 19.99,
     "originalPrice": 29.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Olive%20Oil%20(1L)",
-    "thumbnail": "https://placehold.co/200x200?text=Olive%20Oil%20(1L)",
+    "image": "https://via.placeholder.com/400x300?text=Olive%20Oil%20(1L)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Olive%20Oil%20(1L)",
     "images": [
-      "https://placehold.co/400x300?text=Olive%20Oil%20(1L)",
-      "https://placehold.co/400x300?text=Olive%20Oil%20(1L)",
-      "https://placehold.co/400x300?text=Olive%20Oil%20(1L)",
-      "https://placehold.co/400x300?text=Olive%20Oil%20(1L)"
+      "https://via.placeholder.com/400x300?text=Olive%20Oil%20(1L)",
+      "https://via.placeholder.com/400x300?text=Olive%20Oil%20(1L)",
+      "https://via.placeholder.com/400x300?text=Olive%20Oil%20(1L)",
+      "https://via.placeholder.com/400x300?text=Olive%20Oil%20(1L)"
     ],
     "category": "Grocery",
     "brand": "OilPro",
@@ -2379,13 +2379,13 @@ const products = [
     "price": 22.99,
     "originalPrice": 34.99,
     "discountPercentage": 34,
-    "image": "https://placehold.co/400x300?text=Coffee%20Beans%20(500g)",
-    "thumbnail": "https://placehold.co/200x200?text=Coffee%20Beans%20(500g)",
+    "image": "https://via.placeholder.com/400x300?text=Coffee%20Beans%20(500g)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Coffee%20Beans%20(500g)",
     "images": [
-      "https://placehold.co/400x300?text=Coffee%20Beans%20(500g)",
-      "https://placehold.co/400x300?text=Coffee%20Beans%20(500g)",
-      "https://placehold.co/400x300?text=Coffee%20Beans%20(500g)",
-      "https://placehold.co/400x300?text=Coffee%20Beans%20(500g)"
+      "https://via.placeholder.com/400x300?text=Coffee%20Beans%20(500g)",
+      "https://via.placeholder.com/400x300?text=Coffee%20Beans%20(500g)",
+      "https://via.placeholder.com/400x300?text=Coffee%20Beans%20(500g)",
+      "https://via.placeholder.com/400x300?text=Coffee%20Beans%20(500g)"
     ],
     "category": "Grocery",
     "brand": "BrewPro",
@@ -2416,13 +2416,13 @@ const products = [
     "price": 12.99,
     "originalPrice": 19.99,
     "discountPercentage": 35,
-    "image": "https://placehold.co/400x300?text=Organic%20Quinoa%20(500g)",
-    "thumbnail": "https://placehold.co/200x200?text=Organic%20Quinoa%20(500g)",
+    "image": "https://via.placeholder.com/400x300?text=Organic%20Quinoa%20(500g)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Organic%20Quinoa%20(500g)",
     "images": [
-      "https://placehold.co/400x300?text=Organic%20Quinoa%20(500g)",
-      "https://placehold.co/400x300?text=Organic%20Quinoa%20(500g)",
-      "https://placehold.co/400x300?text=Organic%20Quinoa%20(500g)",
-      "https://placehold.co/400x300?text=Organic%20Quinoa%20(500g)"
+      "https://via.placeholder.com/400x300?text=Organic%20Quinoa%20(500g)",
+      "https://via.placeholder.com/400x300?text=Organic%20Quinoa%20(500g)",
+      "https://via.placeholder.com/400x300?text=Organic%20Quinoa%20(500g)",
+      "https://via.placeholder.com/400x300?text=Organic%20Quinoa%20(500g)"
     ],
     "category": "Grocery",
     "brand": "OrganicPro",
@@ -2453,13 +2453,13 @@ const products = [
     "price": 14.99,
     "originalPrice": 22.99,
     "discountPercentage": 35,
-    "image": "https://placehold.co/400x300?text=Green%20Tea%20(Pack%20of%20100)",
-    "thumbnail": "https://placehold.co/200x200?text=Green%20Tea%20(Pack%20of%20100)",
+    "image": "https://via.placeholder.com/400x300?text=Green%20Tea%20(Pack%20of%20100)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Green%20Tea%20(Pack%20of%20100)",
     "images": [
-      "https://placehold.co/400x300?text=Green%20Tea%20(Pack%20of%20100)",
-      "https://placehold.co/400x300?text=Green%20Tea%20(Pack%20of%20100)",
-      "https://placehold.co/400x300?text=Green%20Tea%20(Pack%20of%20100)",
-      "https://placehold.co/400x300?text=Green%20Tea%20(Pack%20of%20100)"
+      "https://via.placeholder.com/400x300?text=Green%20Tea%20(Pack%20of%20100)",
+      "https://via.placeholder.com/400x300?text=Green%20Tea%20(Pack%20of%20100)",
+      "https://via.placeholder.com/400x300?text=Green%20Tea%20(Pack%20of%20100)",
+      "https://via.placeholder.com/400x300?text=Green%20Tea%20(Pack%20of%20100)"
     ],
     "category": "Grocery",
     "brand": "TeaPro",
@@ -2490,13 +2490,13 @@ const products = [
     "price": 9.99,
     "originalPrice": 14.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Dark%20Chocolate%20(70%25)",
-    "thumbnail": "https://placehold.co/200x200?text=Dark%20Chocolate%20(70%25)",
+    "image": "https://via.placeholder.com/400x300?text=Dark%20Chocolate%20(70%25)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Dark%20Chocolate%20(70%25)",
     "images": [
-      "https://placehold.co/400x300?text=Dark%20Chocolate%20(70%25)",
-      "https://placehold.co/400x300?text=Dark%20Chocolate%20(70%25)",
-      "https://placehold.co/400x300?text=Dark%20Chocolate%20(70%25)",
-      "https://placehold.co/400x300?text=Dark%20Chocolate%20(70%25)"
+      "https://via.placeholder.com/400x300?text=Dark%20Chocolate%20(70%25)",
+      "https://via.placeholder.com/400x300?text=Dark%20Chocolate%20(70%25)",
+      "https://via.placeholder.com/400x300?text=Dark%20Chocolate%20(70%25)",
+      "https://via.placeholder.com/400x300?text=Dark%20Chocolate%20(70%25)"
     ],
     "category": "Grocery",
     "brand": "ChocoPro",
@@ -2527,13 +2527,13 @@ const products = [
     "price": 18.99,
     "originalPrice": 27.99,
     "discountPercentage": 32,
-    "image": "https://placehold.co/400x300?text=Honey%20(500g)",
-    "thumbnail": "https://placehold.co/200x200?text=Honey%20(500g)",
+    "image": "https://via.placeholder.com/400x300?text=Honey%20(500g)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Honey%20(500g)",
     "images": [
-      "https://placehold.co/400x300?text=Honey%20(500g)",
-      "https://placehold.co/400x300?text=Honey%20(500g)",
-      "https://placehold.co/400x300?text=Honey%20(500g)",
-      "https://placehold.co/400x300?text=Honey%20(500g)"
+      "https://via.placeholder.com/400x300?text=Honey%20(500g)",
+      "https://via.placeholder.com/400x300?text=Honey%20(500g)",
+      "https://via.placeholder.com/400x300?text=Honey%20(500g)",
+      "https://via.placeholder.com/400x300?text=Honey%20(500g)"
     ],
     "category": "Grocery",
     "brand": "HoneyPro",
@@ -2564,13 +2564,13 @@ const products = [
     "price": 8.99,
     "originalPrice": 12.99,
     "discountPercentage": 31,
-    "image": "https://placehold.co/400x300?text=Oats%20(1kg)",
-    "thumbnail": "https://placehold.co/200x200?text=Oats%20(1kg)",
+    "image": "https://via.placeholder.com/400x300?text=Oats%20(1kg)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Oats%20(1kg)",
     "images": [
-      "https://placehold.co/400x300?text=Oats%20(1kg)",
-      "https://placehold.co/400x300?text=Oats%20(1kg)",
-      "https://placehold.co/400x300?text=Oats%20(1kg)",
-      "https://placehold.co/400x300?text=Oats%20(1kg)"
+      "https://via.placeholder.com/400x300?text=Oats%20(1kg)",
+      "https://via.placeholder.com/400x300?text=Oats%20(1kg)",
+      "https://via.placeholder.com/400x300?text=Oats%20(1kg)",
+      "https://via.placeholder.com/400x300?text=Oats%20(1kg)"
     ],
     "category": "Grocery",
     "brand": "GrainPro",
@@ -2601,13 +2601,13 @@ const products = [
     "price": 5.99,
     "originalPrice": 8.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Almond%20Milk%20(1L)",
-    "thumbnail": "https://placehold.co/200x200?text=Almond%20Milk%20(1L)",
+    "image": "https://via.placeholder.com/400x300?text=Almond%20Milk%20(1L)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Almond%20Milk%20(1L)",
     "images": [
-      "https://placehold.co/400x300?text=Almond%20Milk%20(1L)",
-      "https://placehold.co/400x300?text=Almond%20Milk%20(1L)",
-      "https://placehold.co/400x300?text=Almond%20Milk%20(1L)",
-      "https://placehold.co/400x300?text=Almond%20Milk%20(1L)"
+      "https://via.placeholder.com/400x300?text=Almond%20Milk%20(1L)",
+      "https://via.placeholder.com/400x300?text=Almond%20Milk%20(1L)",
+      "https://via.placeholder.com/400x300?text=Almond%20Milk%20(1L)",
+      "https://via.placeholder.com/400x300?text=Almond%20Milk%20(1L)"
     ],
     "category": "Grocery",
     "brand": "PlantPro",
@@ -2638,13 +2638,13 @@ const products = [
     "price": 49.99,
     "originalPrice": 74.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Building%20Blocks%20Set%20(1000%20Pieces)",
-    "thumbnail": "https://placehold.co/200x200?text=Building%20Blocks%20Set%20(1000%20Pieces)",
+    "image": "https://via.placeholder.com/400x300?text=Building%20Blocks%20Set%20(1000%20Pieces)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Building%20Blocks%20Set%20(1000%20Pieces)",
     "images": [
-      "https://placehold.co/400x300?text=Building%20Blocks%20Set%20(1000%20Pieces)",
-      "https://placehold.co/400x300?text=Building%20Blocks%20Set%20(1000%20Pieces)",
-      "https://placehold.co/400x300?text=Building%20Blocks%20Set%20(1000%20Pieces)",
-      "https://placehold.co/400x300?text=Building%20Blocks%20Set%20(1000%20Pieces)"
+      "https://via.placeholder.com/400x300?text=Building%20Blocks%20Set%20(1000%20Pieces)",
+      "https://via.placeholder.com/400x300?text=Building%20Blocks%20Set%20(1000%20Pieces)",
+      "https://via.placeholder.com/400x300?text=Building%20Blocks%20Set%20(1000%20Pieces)",
+      "https://via.placeholder.com/400x300?text=Building%20Blocks%20Set%20(1000%20Pieces)"
     ],
     "category": "Toys & Games",
     "brand": "ToyPro",
@@ -2675,13 +2675,13 @@ const products = [
     "price": 34.99,
     "originalPrice": 49.99,
     "discountPercentage": 30,
-    "image": "https://placehold.co/400x300?text=Board%20Game%20-%20Strategy",
-    "thumbnail": "https://placehold.co/200x200?text=Board%20Game%20-%20Strategy",
+    "image": "https://via.placeholder.com/400x300?text=Board%20Game%20-%20Strategy",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Board%20Game%20-%20Strategy",
     "images": [
-      "https://placehold.co/400x300?text=Board%20Game%20-%20Strategy",
-      "https://placehold.co/400x300?text=Board%20Game%20-%20Strategy",
-      "https://placehold.co/400x300?text=Board%20Game%20-%20Strategy",
-      "https://placehold.co/400x300?text=Board%20Game%20-%20Strategy"
+      "https://via.placeholder.com/400x300?text=Board%20Game%20-%20Strategy",
+      "https://via.placeholder.com/400x300?text=Board%20Game%20-%20Strategy",
+      "https://via.placeholder.com/400x300?text=Board%20Game%20-%20Strategy",
+      "https://via.placeholder.com/400x300?text=Board%20Game%20-%20Strategy"
     ],
     "category": "Toys & Games",
     "brand": "GamePro",
@@ -2712,13 +2712,13 @@ const products = [
     "price": 59.99,
     "originalPrice": 89.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Remote%20Control%20Car",
-    "thumbnail": "https://placehold.co/200x200?text=Remote%20Control%20Car",
+    "image": "https://via.placeholder.com/400x300?text=Remote%20Control%20Car",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Remote%20Control%20Car",
     "images": [
-      "https://placehold.co/400x300?text=Remote%20Control%20Car",
-      "https://placehold.co/400x300?text=Remote%20Control%20Car",
-      "https://placehold.co/400x300?text=Remote%20Control%20Car",
-      "https://placehold.co/400x300?text=Remote%20Control%20Car"
+      "https://via.placeholder.com/400x300?text=Remote%20Control%20Car",
+      "https://via.placeholder.com/400x300?text=Remote%20Control%20Car",
+      "https://via.placeholder.com/400x300?text=Remote%20Control%20Car",
+      "https://via.placeholder.com/400x300?text=Remote%20Control%20Car"
     ],
     "category": "Toys & Games",
     "brand": "ToyPro",
@@ -2749,13 +2749,13 @@ const products = [
     "price": 24.99,
     "originalPrice": 34.99,
     "discountPercentage": 29,
-    "image": "https://placehold.co/400x300?text=Teddy%20Bear%20(30cm)",
-    "thumbnail": "https://placehold.co/200x200?text=Teddy%20Bear%20(30cm)",
+    "image": "https://via.placeholder.com/400x300?text=Teddy%20Bear%20(30cm)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Teddy%20Bear%20(30cm)",
     "images": [
-      "https://placehold.co/400x300?text=Teddy%20Bear%20(30cm)",
-      "https://placehold.co/400x300?text=Teddy%20Bear%20(30cm)",
-      "https://placehold.co/400x300?text=Teddy%20Bear%20(30cm)",
-      "https://placehold.co/400x300?text=Teddy%20Bear%20(30cm)"
+      "https://via.placeholder.com/400x300?text=Teddy%20Bear%20(30cm)",
+      "https://via.placeholder.com/400x300?text=Teddy%20Bear%20(30cm)",
+      "https://via.placeholder.com/400x300?text=Teddy%20Bear%20(30cm)",
+      "https://via.placeholder.com/400x300?text=Teddy%20Bear%20(30cm)"
     ],
     "category": "Toys & Games",
     "brand": "CuddlePro",
@@ -2786,13 +2786,13 @@ const products = [
     "price": 19.99,
     "originalPrice": 29.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Puzzle%20(1000%20Pieces)",
-    "thumbnail": "https://placehold.co/200x200?text=Puzzle%20(1000%20Pieces)",
+    "image": "https://via.placeholder.com/400x300?text=Puzzle%20(1000%20Pieces)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Puzzle%20(1000%20Pieces)",
     "images": [
-      "https://placehold.co/400x300?text=Puzzle%20(1000%20Pieces)",
-      "https://placehold.co/400x300?text=Puzzle%20(1000%20Pieces)",
-      "https://placehold.co/400x300?text=Puzzle%20(1000%20Pieces)",
-      "https://placehold.co/400x300?text=Puzzle%20(1000%20Pieces)"
+      "https://via.placeholder.com/400x300?text=Puzzle%20(1000%20Pieces)",
+      "https://via.placeholder.com/400x300?text=Puzzle%20(1000%20Pieces)",
+      "https://via.placeholder.com/400x300?text=Puzzle%20(1000%20Pieces)",
+      "https://via.placeholder.com/400x300?text=Puzzle%20(1000%20Pieces)"
     ],
     "category": "Toys & Games",
     "brand": "PuzzlePro",
@@ -2823,13 +2823,13 @@ const products = [
     "price": 39.99,
     "originalPrice": 59.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Action%20Figure%20Set%20(5%20Pack)",
-    "thumbnail": "https://placehold.co/200x200?text=Action%20Figure%20Set%20(5%20Pack)",
+    "image": "https://via.placeholder.com/400x300?text=Action%20Figure%20Set%20(5%20Pack)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Action%20Figure%20Set%20(5%20Pack)",
     "images": [
-      "https://placehold.co/400x300?text=Action%20Figure%20Set%20(5%20Pack)",
-      "https://placehold.co/400x300?text=Action%20Figure%20Set%20(5%20Pack)",
-      "https://placehold.co/400x300?text=Action%20Figure%20Set%20(5%20Pack)",
-      "https://placehold.co/400x300?text=Action%20Figure%20Set%20(5%20Pack)"
+      "https://via.placeholder.com/400x300?text=Action%20Figure%20Set%20(5%20Pack)",
+      "https://via.placeholder.com/400x300?text=Action%20Figure%20Set%20(5%20Pack)",
+      "https://via.placeholder.com/400x300?text=Action%20Figure%20Set%20(5%20Pack)",
+      "https://via.placeholder.com/400x300?text=Action%20Figure%20Set%20(5%20Pack)"
     ],
     "category": "Toys & Games",
     "brand": "ToyPro",
@@ -2860,13 +2860,13 @@ const products = [
     "price": 69.99,
     "originalPrice": 99.99,
     "discountPercentage": 30,
-    "image": "https://placehold.co/400x300?text=Wooden%20Train%20Set",
-    "thumbnail": "https://placehold.co/200x200?text=Wooden%20Train%20Set",
+    "image": "https://via.placeholder.com/400x300?text=Wooden%20Train%20Set",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Wooden%20Train%20Set",
     "images": [
-      "https://placehold.co/400x300?text=Wooden%20Train%20Set",
-      "https://placehold.co/400x300?text=Wooden%20Train%20Set",
-      "https://placehold.co/400x300?text=Wooden%20Train%20Set",
-      "https://placehold.co/400x300?text=Wooden%20Train%20Set"
+      "https://via.placeholder.com/400x300?text=Wooden%20Train%20Set",
+      "https://via.placeholder.com/400x300?text=Wooden%20Train%20Set",
+      "https://via.placeholder.com/400x300?text=Wooden%20Train%20Set",
+      "https://via.placeholder.com/400x300?text=Wooden%20Train%20Set"
     ],
     "category": "Toys & Games",
     "brand": "WoodPro",
@@ -2897,13 +2897,13 @@ const products = [
     "price": 44.99,
     "originalPrice": 64.99,
     "discountPercentage": 31,
-    "image": "https://placehold.co/400x300?text=Doll%20Set%20with%20Accessories",
-    "thumbnail": "https://placehold.co/200x200?text=Doll%20Set%20with%20Accessories",
+    "image": "https://via.placeholder.com/400x300?text=Doll%20Set%20with%20Accessories",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Doll%20Set%20with%20Accessories",
     "images": [
-      "https://placehold.co/400x300?text=Doll%20Set%20with%20Accessories",
-      "https://placehold.co/400x300?text=Doll%20Set%20with%20Accessories",
-      "https://placehold.co/400x300?text=Doll%20Set%20with%20Accessories",
-      "https://placehold.co/400x300?text=Doll%20Set%20with%20Accessories"
+      "https://via.placeholder.com/400x300?text=Doll%20Set%20with%20Accessories",
+      "https://via.placeholder.com/400x300?text=Doll%20Set%20with%20Accessories",
+      "https://via.placeholder.com/400x300?text=Doll%20Set%20with%20Accessories",
+      "https://via.placeholder.com/400x300?text=Doll%20Set%20with%20Accessories"
     ],
     "category": "Toys & Games",
     "brand": "DollPro",
@@ -2934,13 +2934,13 @@ const products = [
     "price": 39.99,
     "originalPrice": 59.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Science%20Kit%20for%20Kids",
-    "thumbnail": "https://placehold.co/200x200?text=Science%20Kit%20for%20Kids",
+    "image": "https://via.placeholder.com/400x300?text=Science%20Kit%20for%20Kids",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Science%20Kit%20for%20Kids",
     "images": [
-      "https://placehold.co/400x300?text=Science%20Kit%20for%20Kids",
-      "https://placehold.co/400x300?text=Science%20Kit%20for%20Kids",
-      "https://placehold.co/400x300?text=Science%20Kit%20for%20Kids",
-      "https://placehold.co/400x300?text=Science%20Kit%20for%20Kids"
+      "https://via.placeholder.com/400x300?text=Science%20Kit%20for%20Kids",
+      "https://via.placeholder.com/400x300?text=Science%20Kit%20for%20Kids",
+      "https://via.placeholder.com/400x300?text=Science%20Kit%20for%20Kids",
+      "https://via.placeholder.com/400x300?text=Science%20Kit%20for%20Kids"
     ],
     "category": "Toys & Games",
     "brand": "LearnPro",
@@ -2971,13 +2971,13 @@ const products = [
     "price": 14.99,
     "originalPrice": 22.99,
     "discountPercentage": 35,
-    "image": "https://placehold.co/400x300?text=Card%20Game%20Pack%20(3%20Games)",
-    "thumbnail": "https://placehold.co/200x200?text=Card%20Game%20Pack%20(3%20Games)",
+    "image": "https://via.placeholder.com/400x300?text=Card%20Game%20Pack%20(3%20Games)",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Card%20Game%20Pack%20(3%20Games)",
     "images": [
-      "https://placehold.co/400x300?text=Card%20Game%20Pack%20(3%20Games)",
-      "https://placehold.co/400x300?text=Card%20Game%20Pack%20(3%20Games)",
-      "https://placehold.co/400x300?text=Card%20Game%20Pack%20(3%20Games)",
-      "https://placehold.co/400x300?text=Card%20Game%20Pack%20(3%20Games)"
+      "https://via.placeholder.com/400x300?text=Card%20Game%20Pack%20(3%20Games)",
+      "https://via.placeholder.com/400x300?text=Card%20Game%20Pack%20(3%20Games)",
+      "https://via.placeholder.com/400x300?text=Card%20Game%20Pack%20(3%20Games)",
+      "https://via.placeholder.com/400x300?text=Card%20Game%20Pack%20(3%20Games)"
     ],
     "category": "Toys & Games",
     "brand": "GamePro",
@@ -3008,13 +3008,13 @@ const products = [
     "price": 79.99,
     "originalPrice": 119.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Running%20Shoes%20Men's",
-    "thumbnail": "https://placehold.co/200x200?text=Running%20Shoes%20Men's",
+    "image": "https://via.placeholder.com/400x300?text=Running%20Shoes%20Men's",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Running%20Shoes%20Men's",
     "images": [
-      "https://placehold.co/400x300?text=Running%20Shoes%20Men's",
-      "https://placehold.co/400x300?text=Running%20Shoes%20Men's",
-      "https://placehold.co/400x300?text=Running%20Shoes%20Men's",
-      "https://placehold.co/400x300?text=Running%20Shoes%20Men's"
+      "https://via.placeholder.com/400x300?text=Running%20Shoes%20Men's",
+      "https://via.placeholder.com/400x300?text=Running%20Shoes%20Men's",
+      "https://via.placeholder.com/400x300?text=Running%20Shoes%20Men's",
+      "https://via.placeholder.com/400x300?text=Running%20Shoes%20Men's"
     ],
     "category": "Footwear",
     "brand": "RunPro",
@@ -3045,13 +3045,13 @@ const products = [
     "price": 79.99,
     "originalPrice": 119.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Running%20Shoes%20Women's",
-    "thumbnail": "https://placehold.co/200x200?text=Running%20Shoes%20Women's",
+    "image": "https://via.placeholder.com/400x300?text=Running%20Shoes%20Women's",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Running%20Shoes%20Women's",
     "images": [
-      "https://placehold.co/400x300?text=Running%20Shoes%20Women's",
-      "https://placehold.co/400x300?text=Running%20Shoes%20Women's",
-      "https://placehold.co/400x300?text=Running%20Shoes%20Women's",
-      "https://placehold.co/400x300?text=Running%20Shoes%20Women's"
+      "https://via.placeholder.com/400x300?text=Running%20Shoes%20Women's",
+      "https://via.placeholder.com/400x300?text=Running%20Shoes%20Women's",
+      "https://via.placeholder.com/400x300?text=Running%20Shoes%20Women's",
+      "https://via.placeholder.com/400x300?text=Running%20Shoes%20Women's"
     ],
     "category": "Footwear",
     "brand": "RunPro",
@@ -3082,13 +3082,13 @@ const products = [
     "price": 59.99,
     "originalPrice": 89.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Casual%20Sneakers%20Unisex",
-    "thumbnail": "https://placehold.co/200x200?text=Casual%20Sneakers%20Unisex",
+    "image": "https://via.placeholder.com/400x300?text=Casual%20Sneakers%20Unisex",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Casual%20Sneakers%20Unisex",
     "images": [
-      "https://placehold.co/400x300?text=Casual%20Sneakers%20Unisex",
-      "https://placehold.co/400x300?text=Casual%20Sneakers%20Unisex",
-      "https://placehold.co/400x300?text=Casual%20Sneakers%20Unisex",
-      "https://placehold.co/400x300?text=Casual%20Sneakers%20Unisex"
+      "https://via.placeholder.com/400x300?text=Casual%20Sneakers%20Unisex",
+      "https://via.placeholder.com/400x300?text=Casual%20Sneakers%20Unisex",
+      "https://via.placeholder.com/400x300?text=Casual%20Sneakers%20Unisex",
+      "https://via.placeholder.com/400x300?text=Casual%20Sneakers%20Unisex"
     ],
     "category": "Footwear",
     "brand": "SneakPro",
@@ -3119,13 +3119,13 @@ const products = [
     "price": 99.99,
     "originalPrice": 149.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Leather%20Shoes%20Men's",
-    "thumbnail": "https://placehold.co/200x200?text=Leather%20Shoes%20Men's",
+    "image": "https://via.placeholder.com/400x300?text=Leather%20Shoes%20Men's",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Leather%20Shoes%20Men's",
     "images": [
-      "https://placehold.co/400x300?text=Leather%20Shoes%20Men's",
-      "https://placehold.co/400x300?text=Leather%20Shoes%20Men's",
-      "https://placehold.co/400x300?text=Leather%20Shoes%20Men's",
-      "https://placehold.co/400x300?text=Leather%20Shoes%20Men's"
+      "https://via.placeholder.com/400x300?text=Leather%20Shoes%20Men's",
+      "https://via.placeholder.com/400x300?text=Leather%20Shoes%20Men's",
+      "https://via.placeholder.com/400x300?text=Leather%20Shoes%20Men's",
+      "https://via.placeholder.com/400x300?text=Leather%20Shoes%20Men's"
     ],
     "category": "Footwear",
     "brand": "ShoePro",
@@ -3156,13 +3156,13 @@ const products = [
     "price": 39.99,
     "originalPrice": 59.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Sandals%20Women's",
-    "thumbnail": "https://placehold.co/200x200?text=Sandals%20Women's",
+    "image": "https://via.placeholder.com/400x300?text=Sandals%20Women's",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Sandals%20Women's",
     "images": [
-      "https://placehold.co/400x300?text=Sandals%20Women's",
-      "https://placehold.co/400x300?text=Sandals%20Women's",
-      "https://placehold.co/400x300?text=Sandals%20Women's",
-      "https://placehold.co/400x300?text=Sandals%20Women's"
+      "https://via.placeholder.com/400x300?text=Sandals%20Women's",
+      "https://via.placeholder.com/400x300?text=Sandals%20Women's",
+      "https://via.placeholder.com/400x300?text=Sandals%20Women's",
+      "https://via.placeholder.com/400x300?text=Sandals%20Women's"
     ],
     "category": "Footwear",
     "brand": "ShoePro",
@@ -3193,13 +3193,13 @@ const products = [
     "price": 89.99,
     "originalPrice": 134.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Boots%20Men's%20Winter",
-    "thumbnail": "https://placehold.co/200x200?text=Boots%20Men's%20Winter",
+    "image": "https://via.placeholder.com/400x300?text=Boots%20Men's%20Winter",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Boots%20Men's%20Winter",
     "images": [
-      "https://placehold.co/400x300?text=Boots%20Men's%20Winter",
-      "https://placehold.co/400x300?text=Boots%20Men's%20Winter",
-      "https://placehold.co/400x300?text=Boots%20Men's%20Winter",
-      "https://placehold.co/400x300?text=Boots%20Men's%20Winter"
+      "https://via.placeholder.com/400x300?text=Boots%20Men's%20Winter",
+      "https://via.placeholder.com/400x300?text=Boots%20Men's%20Winter",
+      "https://via.placeholder.com/400x300?text=Boots%20Men's%20Winter",
+      "https://via.placeholder.com/400x300?text=Boots%20Men's%20Winter"
     ],
     "category": "Footwear",
     "brand": "WinterPro",
@@ -3230,13 +3230,13 @@ const products = [
     "price": 19.99,
     "originalPrice": 29.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Flip%20Flops%20Unisex",
-    "thumbnail": "https://placehold.co/200x200?text=Flip%20Flops%20Unisex",
+    "image": "https://via.placeholder.com/400x300?text=Flip%20Flops%20Unisex",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Flip%20Flops%20Unisex",
     "images": [
-      "https://placehold.co/400x300?text=Flip%20Flops%20Unisex",
-      "https://placehold.co/400x300?text=Flip%20Flops%20Unisex",
-      "https://placehold.co/400x300?text=Flip%20Flops%20Unisex",
-      "https://placehold.co/400x300?text=Flip%20Flops%20Unisex"
+      "https://via.placeholder.com/400x300?text=Flip%20Flops%20Unisex",
+      "https://via.placeholder.com/400x300?text=Flip%20Flops%20Unisex",
+      "https://via.placeholder.com/400x300?text=Flip%20Flops%20Unisex",
+      "https://via.placeholder.com/400x300?text=Flip%20Flops%20Unisex"
     ],
     "category": "Footwear",
     "brand": "ShoePro",
@@ -3267,13 +3267,13 @@ const products = [
     "price": 69.99,
     "originalPrice": 99.99,
     "discountPercentage": 30,
-    "image": "https://placehold.co/400x300?text=Heels%20Women's",
-    "thumbnail": "https://placehold.co/200x200?text=Heels%20Women's",
+    "image": "https://via.placeholder.com/400x300?text=Heels%20Women's",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Heels%20Women's",
     "images": [
-      "https://placehold.co/400x300?text=Heels%20Women's",
-      "https://placehold.co/400x300?text=Heels%20Women's",
-      "https://placehold.co/400x300?text=Heels%20Women's",
-      "https://placehold.co/400x300?text=Heels%20Women's"
+      "https://via.placeholder.com/400x300?text=Heels%20Women's",
+      "https://via.placeholder.com/400x300?text=Heels%20Women's",
+      "https://via.placeholder.com/400x300?text=Heels%20Women's",
+      "https://via.placeholder.com/400x300?text=Heels%20Women's"
     ],
     "category": "Footwear",
     "brand": "ShoePro",
@@ -3304,13 +3304,13 @@ const products = [
     "price": 44.99,
     "originalPrice": 64.99,
     "discountPercentage": 31,
-    "image": "https://placehold.co/400x300?text=Sports%20Shoes%20Kids",
-    "thumbnail": "https://placehold.co/200x200?text=Sports%20Shoes%20Kids",
+    "image": "https://via.placeholder.com/400x300?text=Sports%20Shoes%20Kids",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Sports%20Shoes%20Kids",
     "images": [
-      "https://placehold.co/400x300?text=Sports%20Shoes%20Kids",
-      "https://placehold.co/400x300?text=Sports%20Shoes%20Kids",
-      "https://placehold.co/400x300?text=Sports%20Shoes%20Kids",
-      "https://placehold.co/400x300?text=Sports%20Shoes%20Kids"
+      "https://via.placeholder.com/400x300?text=Sports%20Shoes%20Kids",
+      "https://via.placeholder.com/400x300?text=Sports%20Shoes%20Kids",
+      "https://via.placeholder.com/400x300?text=Sports%20Shoes%20Kids",
+      "https://via.placeholder.com/400x300?text=Sports%20Shoes%20Kids"
     ],
     "category": "Footwear",
     "brand": "RunPro",
@@ -3341,13 +3341,13 @@ const products = [
     "price": 74.99,
     "originalPrice": 109.99,
     "discountPercentage": 32,
-    "image": "https://placehold.co/400x300?text=Loafers%20Men's",
-    "thumbnail": "https://placehold.co/200x200?text=Loafers%20Men's",
+    "image": "https://via.placeholder.com/400x300?text=Loafers%20Men's",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Loafers%20Men's",
     "images": [
-      "https://placehold.co/400x300?text=Loafers%20Men's",
-      "https://placehold.co/400x300?text=Loafers%20Men's",
-      "https://placehold.co/400x300?text=Loafers%20Men's",
-      "https://placehold.co/400x300?text=Loafers%20Men's"
+      "https://via.placeholder.com/400x300?text=Loafers%20Men's",
+      "https://via.placeholder.com/400x300?text=Loafers%20Men's",
+      "https://via.placeholder.com/400x300?text=Loafers%20Men's",
+      "https://via.placeholder.com/400x300?text=Loafers%20Men's"
     ],
     "category": "Footwear",
     "brand": "ShoePro",
@@ -3378,13 +3378,13 @@ const products = [
     "price": 49.99,
     "originalPrice": 74.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Leather%20Wallet%20Men's",
-    "thumbnail": "https://placehold.co/200x200?text=Leather%20Wallet%20Men's",
+    "image": "https://via.placeholder.com/400x300?text=Leather%20Wallet%20Men's",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Leather%20Wallet%20Men's",
     "images": [
-      "https://placehold.co/400x300?text=Leather%20Wallet%20Men's",
-      "https://placehold.co/400x300?text=Leather%20Wallet%20Men's",
-      "https://placehold.co/400x300?text=Leather%20Wallet%20Men's",
-      "https://placehold.co/400x300?text=Leather%20Wallet%20Men's"
+      "https://via.placeholder.com/400x300?text=Leather%20Wallet%20Men's",
+      "https://via.placeholder.com/400x300?text=Leather%20Wallet%20Men's",
+      "https://via.placeholder.com/400x300?text=Leather%20Wallet%20Men's",
+      "https://via.placeholder.com/400x300?text=Leather%20Wallet%20Men's"
     ],
     "category": "Accessories",
     "brand": "AccessPro",
@@ -3415,13 +3415,13 @@ const products = [
     "price": 34.99,
     "originalPrice": 54.99,
     "discountPercentage": 36,
-    "image": "https://placehold.co/400x300?text=Sunglasses%20Unisex",
-    "thumbnail": "https://placehold.co/200x200?text=Sunglasses%20Unisex",
+    "image": "https://via.placeholder.com/400x300?text=Sunglasses%20Unisex",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Sunglasses%20Unisex",
     "images": [
-      "https://placehold.co/400x300?text=Sunglasses%20Unisex",
-      "https://placehold.co/400x300?text=Sunglasses%20Unisex",
-      "https://placehold.co/400x300?text=Sunglasses%20Unisex",
-      "https://placehold.co/400x300?text=Sunglasses%20Unisex"
+      "https://via.placeholder.com/400x300?text=Sunglasses%20Unisex",
+      "https://via.placeholder.com/400x300?text=Sunglasses%20Unisex",
+      "https://via.placeholder.com/400x300?text=Sunglasses%20Unisex",
+      "https://via.placeholder.com/400x300?text=Sunglasses%20Unisex"
     ],
     "category": "Accessories",
     "brand": "ShadePro",
@@ -3452,13 +3452,13 @@ const products = [
     "price": 79.99,
     "originalPrice": 119.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Watch%20Men's%20Analog",
-    "thumbnail": "https://placehold.co/200x200?text=Watch%20Men's%20Analog",
+    "image": "https://via.placeholder.com/400x300?text=Watch%20Men's%20Analog",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Watch%20Men's%20Analog",
     "images": [
-      "https://placehold.co/400x300?text=Watch%20Men's%20Analog",
-      "https://placehold.co/400x300?text=Watch%20Men's%20Analog",
-      "https://placehold.co/400x300?text=Watch%20Men's%20Analog",
-      "https://placehold.co/400x300?text=Watch%20Men's%20Analog"
+      "https://via.placeholder.com/400x300?text=Watch%20Men's%20Analog",
+      "https://via.placeholder.com/400x300?text=Watch%20Men's%20Analog",
+      "https://via.placeholder.com/400x300?text=Watch%20Men's%20Analog",
+      "https://via.placeholder.com/400x300?text=Watch%20Men's%20Analog"
     ],
     "category": "Accessories",
     "brand": "TimePro",
@@ -3489,13 +3489,13 @@ const products = [
     "price": 54.99,
     "originalPrice": 79.99,
     "discountPercentage": 31,
-    "image": "https://placehold.co/400x300?text=Backpack%20Laptop",
-    "thumbnail": "https://placehold.co/200x200?text=Backpack%20Laptop",
+    "image": "https://via.placeholder.com/400x300?text=Backpack%20Laptop",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Backpack%20Laptop",
     "images": [
-      "https://placehold.co/400x300?text=Backpack%20Laptop",
-      "https://placehold.co/400x300?text=Backpack%20Laptop",
-      "https://placehold.co/400x300?text=Backpack%20Laptop",
-      "https://placehold.co/400x300?text=Backpack%20Laptop"
+      "https://via.placeholder.com/400x300?text=Backpack%20Laptop",
+      "https://via.placeholder.com/400x300?text=Backpack%20Laptop",
+      "https://via.placeholder.com/400x300?text=Backpack%20Laptop",
+      "https://via.placeholder.com/400x300?text=Backpack%20Laptop"
     ],
     "category": "Accessories",
     "brand": "BagPro",
@@ -3526,13 +3526,13 @@ const products = [
     "price": 19.99,
     "originalPrice": 29.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Cap%20Unisex",
-    "thumbnail": "https://placehold.co/200x200?text=Cap%20Unisex",
+    "image": "https://via.placeholder.com/400x300?text=Cap%20Unisex",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Cap%20Unisex",
     "images": [
-      "https://placehold.co/400x300?text=Cap%20Unisex",
-      "https://placehold.co/400x300?text=Cap%20Unisex",
-      "https://placehold.co/400x300?text=Cap%20Unisex",
-      "https://placehold.co/400x300?text=Cap%20Unisex"
+      "https://via.placeholder.com/400x300?text=Cap%20Unisex",
+      "https://via.placeholder.com/400x300?text=Cap%20Unisex",
+      "https://via.placeholder.com/400x300?text=Cap%20Unisex",
+      "https://via.placeholder.com/400x300?text=Cap%20Unisex"
     ],
     "category": "Accessories",
     "brand": "CapPro",
@@ -3563,13 +3563,13 @@ const products = [
     "price": 34.99,
     "originalPrice": 54.99,
     "discountPercentage": 36,
-    "image": "https://placehold.co/400x300?text=Belt%20Leather%20Men's",
-    "thumbnail": "https://placehold.co/200x200?text=Belt%20Leather%20Men's",
+    "image": "https://via.placeholder.com/400x300?text=Belt%20Leather%20Men's",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Belt%20Leather%20Men's",
     "images": [
-      "https://placehold.co/400x300?text=Belt%20Leather%20Men's",
-      "https://placehold.co/400x300?text=Belt%20Leather%20Men's",
-      "https://placehold.co/400x300?text=Belt%20Leather%20Men's",
-      "https://placehold.co/400x300?text=Belt%20Leather%20Men's"
+      "https://via.placeholder.com/400x300?text=Belt%20Leather%20Men's",
+      "https://via.placeholder.com/400x300?text=Belt%20Leather%20Men's",
+      "https://via.placeholder.com/400x300?text=Belt%20Leather%20Men's",
+      "https://via.placeholder.com/400x300?text=Belt%20Leather%20Men's"
     ],
     "category": "Accessories",
     "brand": "AccessPro",
@@ -3600,13 +3600,13 @@ const products = [
     "price": 24.99,
     "originalPrice": 39.99,
     "discountPercentage": 37,
-    "image": "https://placehold.co/400x300?text=Scarf%20Women's",
-    "thumbnail": "https://placehold.co/200x200?text=Scarf%20Women's",
+    "image": "https://via.placeholder.com/400x300?text=Scarf%20Women's",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Scarf%20Women's",
     "images": [
-      "https://placehold.co/400x300?text=Scarf%20Women's",
-      "https://placehold.co/400x300?text=Scarf%20Women's",
-      "https://placehold.co/400x300?text=Scarf%20Women's",
-      "https://placehold.co/400x300?text=Scarf%20Women's"
+      "https://via.placeholder.com/400x300?text=Scarf%20Women's",
+      "https://via.placeholder.com/400x300?text=Scarf%20Women's",
+      "https://via.placeholder.com/400x300?text=Scarf%20Women's",
+      "https://via.placeholder.com/400x300?text=Scarf%20Women's"
     ],
     "category": "Accessories",
     "brand": "AccessPro",
@@ -3637,13 +3637,13 @@ const products = [
     "price": 19.99,
     "originalPrice": 29.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Gloves%20Winter%20Unisex",
-    "thumbnail": "https://placehold.co/200x200?text=Gloves%20Winter%20Unisex",
+    "image": "https://via.placeholder.com/400x300?text=Gloves%20Winter%20Unisex",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Gloves%20Winter%20Unisex",
     "images": [
-      "https://placehold.co/400x300?text=Gloves%20Winter%20Unisex",
-      "https://placehold.co/400x300?text=Gloves%20Winter%20Unisex",
-      "https://placehold.co/400x300?text=Gloves%20Winter%20Unisex",
-      "https://placehold.co/400x300?text=Gloves%20Winter%20Unisex"
+      "https://via.placeholder.com/400x300?text=Gloves%20Winter%20Unisex",
+      "https://via.placeholder.com/400x300?text=Gloves%20Winter%20Unisex",
+      "https://via.placeholder.com/400x300?text=Gloves%20Winter%20Unisex",
+      "https://via.placeholder.com/400x300?text=Gloves%20Winter%20Unisex"
     ],
     "category": "Accessories",
     "brand": "WinterPro",
@@ -3674,13 +3674,13 @@ const products = [
     "price": 22.99,
     "originalPrice": 34.99,
     "discountPercentage": 34,
-    "image": "https://placehold.co/400x300?text=Tote%20Bag%20Canvas",
-    "thumbnail": "https://placehold.co/200x200?text=Tote%20Bag%20Canvas",
+    "image": "https://via.placeholder.com/400x300?text=Tote%20Bag%20Canvas",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Tote%20Bag%20Canvas",
     "images": [
-      "https://placehold.co/400x300?text=Tote%20Bag%20Canvas",
-      "https://placehold.co/400x300?text=Tote%20Bag%20Canvas",
-      "https://placehold.co/400x300?text=Tote%20Bag%20Canvas",
-      "https://placehold.co/400x300?text=Tote%20Bag%20Canvas"
+      "https://via.placeholder.com/400x300?text=Tote%20Bag%20Canvas",
+      "https://via.placeholder.com/400x300?text=Tote%20Bag%20Canvas",
+      "https://via.placeholder.com/400x300?text=Tote%20Bag%20Canvas",
+      "https://via.placeholder.com/400x300?text=Tote%20Bag%20Canvas"
     ],
     "category": "Accessories",
     "brand": "BagPro",
@@ -3711,13 +3711,13 @@ const products = [
     "price": 59.99,
     "originalPrice": 89.99,
     "discountPercentage": 33,
-    "image": "https://placehold.co/400x300?text=Jewelry%20Set%20Women's",
-    "thumbnail": "https://placehold.co/200x200?text=Jewelry%20Set%20Women's",
+    "image": "https://via.placeholder.com/400x300?text=Jewelry%20Set%20Women's",
+    "thumbnail": "https://via.placeholder.com/200x200?text=Jewelry%20Set%20Women's",
     "images": [
-      "https://placehold.co/400x300?text=Jewelry%20Set%20Women's",
-      "https://placehold.co/400x300?text=Jewelry%20Set%20Women's",
-      "https://placehold.co/400x300?text=Jewelry%20Set%20Women's",
-      "https://placehold.co/400x300?text=Jewelry%20Set%20Women's"
+      "https://via.placeholder.com/400x300?text=Jewelry%20Set%20Women's",
+      "https://via.placeholder.com/400x300?text=Jewelry%20Set%20Women's",
+      "https://via.placeholder.com/400x300?text=Jewelry%20Set%20Women's",
+      "https://via.placeholder.com/400x300?text=Jewelry%20Set%20Women's"
     ],
     "category": "Accessories",
     "brand": "JewelryPro",
@@ -3744,11 +3744,1022 @@ const products = [
   }
 ];
 
+const permanentImageMap = [
+  {
+    "skuSearch": "Wireless Bluetooth Headphones",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Smart Watch Pro",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Wireless Earbuds",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Gaming Keyboard",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+    "images": [
+      "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png"
+    ]
+  },
+  {
+    "skuSearch": "Gaming Mouse",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+    "images": [
+      "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png"
+    ]
+  },
+  {
+    "skuSearch": "Bluetooth Speaker",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Laptop Backpack",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+    "images": [
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
+    ]
+  },
+  {
+    "skuSearch": "Power Bank",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "AeroSound Pro Wireless Earbuds",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "ChronoFit Smart Watch Platinum",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Cotton T-Shirt",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Polo Shirt",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Denim Jacket",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+    "images": [
+      "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png"
+    ]
+  },
+  {
+    "skuSearch": "Hoodie",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Jeans",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Chinos",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Formal Shirt",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Sweatshirt",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Cargo Pants",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Running Shorts",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "LED Table Lamp",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Coffee Maker",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Vacuum Cleaner",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Air Fryer",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Blender",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/2.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/3.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Wall Clock",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Storage Basket",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Bed Sheet Set",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/2.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/3.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Dining Chair",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Kitchen Organizer",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Atomic Habits",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "The Psychology of Money",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Deep Work",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Rich Dad Poor Dad",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "The Alchemist",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Ikigai",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Clean Code",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Think and Grow Rich",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "The Lean Startup",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Harry Potter Collection",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Yoga Mat Premium",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Football",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Basketball",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Cricket Bat",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Dumbbells",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Resistance Bands",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Skipping Rope",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Tennis Racket",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Gym Gloves",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Water Bottle",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Vitamin C Serum",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Moisturizing Face Cream",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Lipstick Set (12 Colors)",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Mascara Volume & Length",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Shampoo & Conditioner Set",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Facial Cleanser",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Nail Polish Set (18 Colors)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Perfume (100ml)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Face Mask Set (5 Pack)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Deodorant (Pack of 3)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Organic Almonds (1kg)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Greek Yogurt (Pack of 6)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Olive Oil (1L)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Coffee Beans (500g)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Organic Quinoa (500g)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/2.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/3.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Green Tea (Pack of 100)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Dark Chocolate (70%)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Honey (500g)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Oats (1kg)",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+    "images": [
+      "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png"
+    ]
+  },
+  {
+    "skuSearch": "Almond Milk (1L)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Building Blocks Set (1000 Pieces)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Board Game - Strategy",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Remote Control Car",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Teddy Bear (30cm)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Puzzle (1000 Pieces)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Action Figure Set (5 Pack)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Wooden Train Set",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Doll Set with Accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Science Kit for Kids",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Card Game Pack (3 Games)",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Running Shoes Men's",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Running Shoes Women's",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Casual Sneakers Unisex",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+    "images": [
+      "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png"
+    ]
+  },
+  {
+    "skuSearch": "Leather Shoes Men's",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+    "images": [
+      "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png"
+    ]
+  },
+  {
+    "skuSearch": "Sandals Women's",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+    "images": [
+      "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png"
+    ]
+  },
+  {
+    "skuSearch": "Boots Men's Winter",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Flip Flops Unisex",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Heels Women's",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+    "images": [
+      "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png"
+    ]
+  },
+  {
+    "skuSearch": "Sports Shoes Kids",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Loafers Men's",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Leather Wallet Men's",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Sunglasses Unisex",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Watch Men's Analog",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Backpack Laptop",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Cap Unisex",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Belt Leather Men's",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Scarf Women's",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/2.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/3.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/4.webp"
+    ]
+  },
+  {
+    "skuSearch": "Gloves Winter Unisex",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Tote Bag Canvas",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp"
+    ]
+  },
+  {
+    "skuSearch": "Jewelry Set Women's",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp"
+    ]
+  }
+];
+
 const normalizedProducts = products.map((product) => {
+  const mapEntry = permanentImageMap.find(m => m.skuSearch === product.name);
+  if (!mapEntry) {
+    throw new Error("Missing image mapping for " + product.name);
+  }
+  
   return {
     ...product,
     price: toINR(product.price),
     originalPrice: toINR(product.originalPrice),
+    image: mapEntry.image,
+    thumbnail: mapEntry.image,
+    images: mapEntry.images,
   };
 });
 
