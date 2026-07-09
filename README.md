@@ -53,7 +53,7 @@ CodeAlpha_ECommerceStore/
 │   │   └── productRoutes.js       # Product endpoints
 │   ├── seed/
 │   │   └── seedProducts.js        # Database seeding script (100 products)
-│   ├── checkImages.js             # Image validation script
+
 │   ├── server.js                  # Express server entry point
 │   ├── .env                       # Environment variables
 │   ├── .env.example               # Environment variables template
@@ -122,7 +122,7 @@ npm run seed
 
 Check if all product images are working:
 ```bash
-node checkImages.js
+
 ```
 
 Start the backend server:
