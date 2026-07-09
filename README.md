@@ -7,11 +7,12 @@ A modern full-stack e-commerce application built with React, Node.js, Express, a
 ## Live Features
 
 - **User Authentication**: Secure registration and login with JWT token-based authentication
-- **Product Discovery**: Browse products with search functionality and category filters
+- **Product Discovery**: Browse 100 unique products with search functionality and 10 category filters (Electronics, Fashion, Home & Kitchen, Books, Sports & Fitness, Beauty & Personal Care, Grocery, Toys & Games, Footwear, Accessories)
 - **Product Details**: Detailed product pages with images, specifications, and pricing
 - **Shopping Cart**: Add items to cart, adjust quantities, and view real-time totals
 - **Checkout & Orders**: Complete checkout process with order processing and order history
 - **Pricing**: All prices displayed in Indian Rupees (₹)
+- **Image Validation**: Script to verify all product images are working correctly
 
 ---
 
@@ -51,7 +52,8 @@ CodeAlpha_ECommerceStore/
 │   │   ├── orderRoutes.js         # Order processing endpoints
 │   │   └── productRoutes.js       # Product endpoints
 │   ├── seed/
-│   │   └── seedProducts.js        # Database seeding script
+│   │   └── seedProducts.js        # Database seeding script (100 products)
+│   ├── checkImages.js             # Image validation script
 │   ├── server.js                  # Express server entry point
 │   ├── .env                       # Environment variables
 │   ├── .env.example               # Environment variables template
@@ -108,7 +110,7 @@ cp .env.example .env
 
 Configure your `.env` file with:
 ```env
-PORT=5000
+PORT=5006
 MONGO_URI=mongodb://127.0.0.1:27017/shopease
 JWT_SECRET=your_jwt_secret_here
 ```
@@ -118,11 +120,16 @@ Seed the database with sample products:
 npm run seed
 ```
 
+Check if all product images are working:
+```bash
+node checkImages.js
+```
+
 Start the backend server:
 ```bash
 npm start
 ```
-The backend will run on `http://localhost:5000`
+The backend will run on `http://localhost:5006`
 
 ### Frontend Setup
 In a new terminal:

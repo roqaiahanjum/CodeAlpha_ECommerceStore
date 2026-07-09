@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:5004/api";
+const API_BASE_URL = "http://localhost:5006/api";
 
 // Helper function to handle requests
 const request = async (endpoint, options = {}) => {
